@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Core",
-    "\\Core\\CarBook.Domain",
-    "\\Core\\CarBook.Domain\\Entities"
+    "\\Core\\CarBook.Domain"
   ],
-  "SelectedNode": "\\Core\\CarBook.Domain\\Entities\\Contact.cs",
+  "SelectedNode": "\\Core",
   "PreviewInSolutionExplorer": false
 }

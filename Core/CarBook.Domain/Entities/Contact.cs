@@ -16,9 +16,4 @@ namespace CarBook.Domain.Entities
 		public string Message { get; set; }
 		public DateTime CreatedDate { get; set; }
     }
-    {
-		//
-		// TODO: Add constructor logic here
-		//
-	}
 }
