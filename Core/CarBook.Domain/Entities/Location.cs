@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Location
+namespace CarBook.Domain.Entities
 {
-	public Location()
+	public class Location
 	{
+
 		public int LocationID { get; set; }
 		public string Name { get; set; }
-}
+
+	}
 }

@@ -14,7 +14,7 @@ namespace CarBook.Persistence.Context
         {
 
             //SQL SERVER CONNECTION STRING
-            optionsBuilder.UseSqlServer("Server=localhost\\SQLExpress;initial Catalog=CarBook;integrated Securiy=true;");
+            optionsBuilder.UseSqlServer("Server=localhost\\SQLExpress;TrustServerCertificate=True;initial Catalog=CarBook;Integrated Security=true;");
         }
 
         //DB SETS
