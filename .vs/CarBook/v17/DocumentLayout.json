@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\core\\carbook.domain\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|solutionrelative:core\\carbook.domain\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Core\\CarBook.Domain\\Entities\\Banner.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Domain\\Entities\\Banner.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Core\\CarBook.Domain\\Entities\\Banner.cs",
+              "RelativeToolTip": "Core\\CarBook.Domain\\Entities\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:28:39.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
