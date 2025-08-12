@@ -1,6 +1,24 @@
+using CarBook.Application.Features.CQRS.Handlers.AboutHandlers;
+using CarBook.Application.Interfaces;
+using CarBook.Persistence.Context;   
+using Microsoft.EntityFrameworkCore;
+using CarBook.Persistence.Repositories;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddDbContext<CarBookContext>(opt =>
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
+
+builder.Services.AddScoped<GetAboutQueryHandler>();
+builder.Services.AddScoped<GetAboutByIdQueryHandler>();
+builder.Services.AddScoped<CreateAboutCommandHandler>();
+builder.Services.AddScoped<UpdateAboutCommandHandler>();
+builder.Services.AddScoped<RemoveAboutCommandHandler>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

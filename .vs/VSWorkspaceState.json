@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Core",
-    "\\Core\\CarBook.Domain"
+    "\\Core\\CarBook.Domain",
+    "\\Persistence",
+    "\\Presentation",
+    "\\Presentation\\CarBook.WebApi"
   ],
-  "SelectedNode": "\\Core",
+  "SelectedNode": "\\Core\\CarBook.Domain",
   "PreviewInSolutionExplorer": false
 }

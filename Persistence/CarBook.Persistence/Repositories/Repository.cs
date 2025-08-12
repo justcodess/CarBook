@@ -13,7 +13,7 @@ namespace CarBook.Persistence.Repositories
 {
     public class Repository<T> : IRepository<T> where T : class
     {
-        private readonly CarBookContext _context;
+        protected readonly CarBookContext _context;
 
         public Repository(CarBookContext context)
         {
@@ -42,10 +42,10 @@ namespace CarBook.Persistence.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public Task UpdateAsync(T entity)
+        public async Task UpdateAsync(T entity)
         {
             _context.Set<T>().Update(entity);
-            return _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
     }
 }
