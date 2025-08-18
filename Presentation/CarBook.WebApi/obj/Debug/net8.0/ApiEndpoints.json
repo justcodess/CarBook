@@ -146,5 +146,79 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BrandController",
+    "Method": "BrandList",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BrandController",
+    "Method": "CreateBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.BrandCommands.CreateBrandCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BrandController",
+    "Method": "RemoveBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BrandController",
+    "Method": "UpdateBrand",
+    "RelativePath": "api/Brand",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.BrandCommands.UpdateBrandCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BrandController",
+    "Method": "BrandById",
+    "RelativePath": "api/Brand/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
