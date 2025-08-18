@@ -4,15 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CarBook.Domain.Entities
+namespace CarBook.Application.Features.CQRS.Commands.BannerCommands
 {
-    public class Banner
+    public class UpdateBannerCommand
     {
-        public int BannerId { get; set; }
+        public int BannerId { get; set; } 
         public string Title { get; set; }
         public string Description { get; set; }
         public string VideoDescription { get; set; }
         public string VideoUrl { get; set; }
-
     }
 }

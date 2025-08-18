@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\persistence\\carbook.persistence\\context\\carbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|solutionrelative:persistence\\carbook.persistence\\context\\carbookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\handlers\\bannerhandlers\\removebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\handlers\\bannerhandlers\\updatebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\handlers\\bannerhandlers\\updatebannercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\handlers\\abouthandlers\\removeaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\handlers\\abouthandlers\\removeaboutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\aboutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\commands\\aboutcommands\\removeaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\commands\\aboutcommands\\removeaboutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\appsettings.json",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-12T13:53:53.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarBookContext.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Context\\CarBookContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\CarBook.Persistence\\Context\\CarBookContext.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Context\\CarBookContext.cs",
-              "RelativeToolTip": "Persistence\\CarBook.Persistence\\Context\\CarBookContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T13:21:58.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T12:03:59.794Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AboutsController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\AboutsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\AboutsController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\AboutsController.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\AboutsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAmwAoAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RemoveAboutCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\AboutHandlers\\RemoveAboutCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T12:32:01.522Z",
+              "WhenOpened": "2025-08-18T10:26:08.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveBannerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\RemoveBannerCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:25:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveAboutCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Commands\\AboutCommands\\RemoveAboutCommand.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Commands\\AboutCommands\\RemoveAboutCommand.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Commands\\AboutCommands\\RemoveAboutCommand.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Commands\\AboutCommands\\RemoveAboutCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:24:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateBannerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\BannerHandlers\\UpdateBannerCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:22:42.556Z",
               "EditorCaption": ""
             }
           ]

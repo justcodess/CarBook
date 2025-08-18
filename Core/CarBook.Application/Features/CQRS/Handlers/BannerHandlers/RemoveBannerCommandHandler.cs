@@ -5,18 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 using CarBook.Application.Interfaces;
 using CarBook.Domain.Entities;
-using CarBook.Application.Features.CQRS.Commands.AboutCommands;
+using CarBook.Application.Features.CQRS.Commands.BannerCommands;
 
-namespace CarBook.Application.Features.CQRS.Handlers.AboutHandlers
+
+namespace CarBook.Application.Features.CQRS.Handlers.BannerHandlers
 {
-    public class RemoveAboutCommandHandler
+    public class RemoveBannerCommandHandler
     {
-        private readonly IRepository<About> _repository;
-        public RemoveAboutCommandHandler(IRepository<About> repository)
+        private readonly IRepository<Banner> _repository;
+        public RemoveBannerCommandHandler(IRepository<Banner> repository)
         {
             _repository = repository;
         }
-        public async Task Handle(RemoveAboutCommand command)
+        public async Task Handle(RemoveBannerCommand command)
         {
             var values = await _repository.GetByIdAsync(command.Id);
             await _repository.RemoveAsync(values);
