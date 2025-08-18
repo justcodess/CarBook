@@ -7,12 +7,12 @@ using CarBook.Application.Interfaces;
 using CarBook.Domain.Entities;
 using CarBook.Application.Features.CQRS.Commands.BannerCommands;
 
-namespace CarBook.Application.Features.CQRS.Handlers.valuesHandlers
+namespace CarBook.Application.Features.CQRS.Handlers.BannerHandlers
 {
-    public class UpdatevaluesCommandHandler
+    public class UpdateBannerCommandHandler
     {
         private readonly IRepository<Banner> _repository;
-        public UpdatevaluesCommandHandler(IRepository<Banner> repository)
+        public UpdateBannerCommandHandler(IRepository<Banner> repository)
         {
             _repository = repository;
         }

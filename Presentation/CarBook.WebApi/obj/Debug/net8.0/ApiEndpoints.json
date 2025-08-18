@@ -72,5 +72,79 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BannersController",
+    "Method": "BannerList",
+    "RelativePath": "api/Banners",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BannersController",
+    "Method": "CreateBanner",
+    "RelativePath": "api/Banners",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.BannerCommands.CreateBannerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BannersController",
+    "Method": "RemoveBanner",
+    "RelativePath": "api/Banners",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BannersController",
+    "Method": "UpdateBanner",
+    "RelativePath": "api/Banners",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.BannerCommands.UpdateBannerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BannersController",
+    "Method": "BannerById",
+    "RelativePath": "api/Banners/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
