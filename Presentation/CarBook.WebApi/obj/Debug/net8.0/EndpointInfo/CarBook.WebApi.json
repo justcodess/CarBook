@@ -456,6 +456,18 @@
           }
         }
       }
+    },
+    "/api/Cars/GetCarWithBrand": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
