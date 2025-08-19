@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|solutionrelative:core\\carbook.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\cqrs\\results\\contactresults\\getcontactqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\cqrs\\results\\contactresults\\getcontactqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetContactQueryResult.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Results\\ContactResults\\GetContactQueryResult.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Results\\ContactResults\\GetContactQueryResult.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Results\\ContactResults\\GetContactQueryResult.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Results\\ContactResults\\GetContactQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:06:55.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,35 +45,9 @@
               "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
               "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T12:29:43.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\CQRS\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Features\\CQRS\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:14:06.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Core\\CarBook.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:50:13.991Z",
               "EditorCaption": ""
             }
           ]

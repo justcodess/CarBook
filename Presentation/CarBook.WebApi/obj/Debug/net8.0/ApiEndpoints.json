@@ -378,5 +378,79 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ContactController",
+    "Method": "ContactList",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ContactController",
+    "Method": "CreateContact",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.ContactCommands.CreateContactCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ContactController",
+    "Method": "RemoveContact",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ContactController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.CQRS.Commands.ContactCommands.UpdateContactCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ContactController",
+    "Method": "ContactById",
+    "RelativePath": "api/Contact/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
