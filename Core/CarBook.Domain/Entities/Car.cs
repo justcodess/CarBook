@@ -12,7 +12,7 @@ namespace CarBook.Domain.Entities
 		public int BrandID { get; set; }
 		public Brand Brand { get; set; }
 		public string CoverImgUrl { get; set; }
-		public string Price { get; set; }
+		public string Model { get; set; }
 		public int Km { get; set; }
 		public string Transmission { get; set; }
 		public byte Seat { get; set; }
