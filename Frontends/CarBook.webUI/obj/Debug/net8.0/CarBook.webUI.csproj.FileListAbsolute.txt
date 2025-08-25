@@ -229,3 +229,5 @@ C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\run
 C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\CarBook.webUI.csproj.AssemblyReference.cache
 C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\CarBook..7B7BCA1C.Up2Date
+C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\CarBook.Dto.dll
+C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\CarBook.Dto.pdb
