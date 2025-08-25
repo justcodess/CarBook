@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CarBook.Application.Features.Mediator.Results.ServiceResults;
+using MediatR;
 
-namespace CarBook.Application.Features.Mediator.Queries.ServicesQueries
+namespace CarBook.Application.Features.Mediator.Queries.ServiceQueries
 {
-    public class GetServiceQuery: IRequest<List<GetServiceQuery>>
+    public class GetServiceQuery: IRequest<List<GetServiceQueryResult>>
     {
     }
 }

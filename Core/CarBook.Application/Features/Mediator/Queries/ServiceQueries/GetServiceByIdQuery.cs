@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MediatR;
+using CarBook.Application.Features.Mediator.Results.ServiceResults;
 
-namespace CarBook.Application.Features.Mediator.Queries.ServicesQueries
+namespace CarBook.Application.Features.Mediator.Queries.ServiceQueries
 {
-    public class GetServiceByIdQuery: IRequest<GetServiceByIdQuery>
+    public class GetServiceByIdQuery: IRequest<GetServiceByIdQueryResult>
     {
         public int Id { get; set; }
         public GetServiceByIdQuery(int id)
