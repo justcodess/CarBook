@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:29:43.21Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FeaturesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\FeaturesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FeaturesController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\FeaturesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:14:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FooterAddressController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:14:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:13:36.444Z",
+              "EditorCaption": ""
             }
           ]
         }
