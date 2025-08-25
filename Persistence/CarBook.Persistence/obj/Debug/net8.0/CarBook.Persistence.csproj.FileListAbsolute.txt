@@ -36,3 +36,5 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Persistence\CarBook.Persistence\
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Persistence\CarBook.Persistence\obj\Debug\net8.0\CarBook.Persistence.pdb
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Persistence\CarBook.Persistence\obj\Debug\net8.0\CarBook.Persistence.genruntimeconfig.cache
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Persistence\CarBook.Persistence\obj\Debug\net8.0\ref\CarBook.Persistence.dll
+C:\Users\admin\Desktop\.Git\CarBook\Persistence\CarBook.Persistence\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\admin\Desktop\.Git\CarBook\Persistence\CarBook.Persistence\bin\Debug\net8.0\CarBook.Application.pdb
