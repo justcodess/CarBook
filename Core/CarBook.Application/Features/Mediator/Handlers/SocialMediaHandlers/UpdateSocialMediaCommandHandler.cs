@@ -23,9 +23,9 @@ namespace CarBook.Application.Features.Mediator.Handlers.SocialMediaHandlers
             values.Name = request.Name;
             values.Url = request.Url;
             values.IconUrl = request.IconUrl;
-            
 
-            _repository.UpdateAsync(values);
+
+            await _repository.UpdateAsync(values);
 
         }
     }

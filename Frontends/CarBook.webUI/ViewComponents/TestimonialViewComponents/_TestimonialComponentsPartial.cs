@@ -18,8 +18,8 @@ namespace CarBook.webUI.ViewComponents.TestimonialViewComponents
             if(responseMessage.IsSuccessStatusCode )
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
-                var result = JsonConvert.DeserializeObject<List<>>(jsonData);
-                return View(result);
+                //var result = JsonConvert.DeserializeObject<List<>>(jsonData);
+                //return View(result);
             }
             return View();
 
