@@ -14,6 +14,8 @@ namespace CarBook.Persistence.Repositories.CarRepositories
     public class CarRepository : ICarRepository
     {
         private readonly CarBookContext _context;
+
+
         public CarRepository(CarBookContext context)
         {
             _context = context;
@@ -24,5 +26,10 @@ namespace CarBook.Persistence.Repositories.CarRepositories
             return values;
         }
 
+        public List<Car> GetLast5CarsWithBrands()
+        {
+            var values = _context.Cars.Include(x => x.Brand).OrderByDescending(x => x.CarID).Take(5).ToList();
+            return values;
+        }
     }
 }

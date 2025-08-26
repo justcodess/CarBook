@@ -306,6 +306,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.CarsController",
+    "Method": "GetLast5CarsWithBrand",
+    "RelativePath": "api/Cars/GetLast5CarsWithBrand",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.CategoryController",
     "Method": "CategoryList",
     "RelativePath": "api/Category",
