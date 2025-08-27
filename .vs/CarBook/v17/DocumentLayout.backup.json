@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\presentation\\carbook.webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\admin\\desktop\\.git\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\authorhandlers\\getauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\authorhandlers\\getauthorsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,25 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Frontends\\CarBook.webUI\\Views\\Default\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Views\\Default\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Frontends\\CarBook.webUI\\Views\\Default\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Views\\Default\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T07:36:07.987Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:38:25.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:38:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAuthorsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\AuthorHandlers\\GetAuthorsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\AuthorHandlers\\GetAuthorsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\.Git\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\AuthorHandlers\\GetAuthorsQueryHandler.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\AuthorHandlers\\GetAuthorsQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:34:59.843Z",
+              "EditorCaption": ""
             }
           ]
         }

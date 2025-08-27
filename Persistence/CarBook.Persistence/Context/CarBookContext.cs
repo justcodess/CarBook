@@ -24,5 +24,7 @@ namespace CarBook.Persistence.Context
         public DbSet<Service> Services { get; set; }
         public DbSet<SocialMedia> SocialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
+        public DbSet<SocialMedia> Authors { get; set; }
+        public DbSet<Testimonial> Blogs { get; set; }
     }
 }
