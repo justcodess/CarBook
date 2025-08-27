@@ -69,7 +69,7 @@ namespace CarBook.Persistence.Migrations
 
                     b.HasKey("AuthorID");
 
-                    b.ToTable("Author");
+                    b.ToTable("Authors");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Banner", b =>
@@ -132,7 +132,7 @@ namespace CarBook.Persistence.Migrations
 
                     b.HasIndex("CategoryID");
 
-                    b.ToTable("Blog");
+                    b.ToTable("Blogs");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Brand", b =>
@@ -452,7 +452,7 @@ namespace CarBook.Persistence.Migrations
 
                     b.HasKey("SocialMediaID");
 
-                    b.ToTable("SocialMedia");
+                    b.ToTable("SocialMedias");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Testimonial", b =>
@@ -481,7 +481,7 @@ namespace CarBook.Persistence.Migrations
 
                     b.HasKey("TestimonialID");
 
-                    b.ToTable("Testimonial");
+                    b.ToTable("Testimonials");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Blog", b =>

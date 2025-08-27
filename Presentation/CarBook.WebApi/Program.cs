@@ -1,16 +1,18 @@
 using CarBook.Application.Features.CQRS.Handlers.AboutHandlers;
-using CarBook.Application.Interfaces;
-using CarBook.Persistence.Context;   
-using Microsoft.EntityFrameworkCore;
-using CarBook.Persistence.Repositories;
 using CarBook.Application.Features.CQRS.Handlers.BannerHandlers;
 using CarBook.Application.Features.CQRS.Handlers.BrandHandlers;
 using CarBook.Application.Features.CQRS.Handlers.CarHandlers;
-using CarBook.Application.Interfaces.CarInterfaces;
-using CarBook.Persistence.Repositories.CarRepositories;
 using CarBook.Application.Features.CQRS.Handlers.CategoryHandlers;
 using CarBook.Application.Features.CQRS.Handlers.ContactHandlers;
+using CarBook.Application.Interfaces;
+using CarBook.Application.Interfaces.BlogInterfaces;
+using CarBook.Application.Interfaces.CarInterfaces;
 using CarBook.Application.Services;
+using CarBook.Persistence.Context;   
+using CarBook.Persistence.Repositories;
+using CarBook.Persistence.Repositories.BlogRepositories;
+using CarBook.Persistence.Repositories.CarRepositories;
+using Microsoft.EntityFrameworkCore;
 
 
 
@@ -23,6 +25,8 @@ builder.Services.AddDbContext<CarBookContext>(opt =>
 
 builder.Services.AddScoped(typeof(IRepository<>),typeof(Repository<>));
 builder.Services.AddScoped(typeof(ICarRepository), typeof(CarRepository));
+builder.Services.AddScoped<IBlogRepository, BlogRepository>();
+
 
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
@@ -62,6 +66,9 @@ builder.Services.AddScoped<GetContactQueryHandler>();
 builder.Services.AddScoped<GetContactByIdQueryHandler>();
 builder.Services.AddScoped<UpdateContactCommandHandler>();
 builder.Services.AddScoped<RemoveContactCommandHandler>();
+
+
+
 
 builder.Services.AddApplicationService(builder.Configuration);
 
