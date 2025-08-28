@@ -22,6 +22,8 @@ namespace CarBook.webUI.Controllers
                 var result = JsonConvert.DeserializeObject<List<ResultCarWithBrandsDto>>(jsonData);
                 return View(result);
             }
+            ViewBag.v1 = "Cars";
+            ViewBag.v2 = "Cars List";
             return View();
         }
     }

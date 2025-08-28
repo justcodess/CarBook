@@ -9,7 +9,9 @@ namespace CarBook.webUI.Controllers
         
         public IActionResult Index()
         {
-           
+            ViewBag.v1 = "Service";
+            ViewBag.v2 = "Our Services";
+
             return View();
         }
     }

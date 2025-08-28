@@ -20,6 +20,8 @@ namespace CarBook.Application.Features.Mediator.Handlers.AuthorHandlers
            
             {
                 values.Name = request.Name;
+                values.Description = request.Description;
+                values.AuthorID = request.AuthorID;
                 values.ImageUrl = request.ImageUrl;
                 values.Description = request.Description;
                 await _repository.UpdateAsync(values);

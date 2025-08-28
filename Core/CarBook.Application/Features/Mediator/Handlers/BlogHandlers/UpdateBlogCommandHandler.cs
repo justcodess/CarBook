@@ -16,16 +16,15 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
         public async Task Handle(UpdateBlogCommand request, CancellationToken cancellationToken)
         {
             var values = await _repository.GetByIdAsync(request.BlogID);
-            await _repository.UpdateAsync(new()
-            {
-              
-                Title = request.Title,
-                AuthorID = request.AuthorID,
-                CoverImageUrl = request.CoverImageUrl,
-                CreatedDate = request.CreatedDate,
-                CategoryID = request.CategoryID,
 
-            });
+            {
+                values.Title = request.Title;
+                values.CoverImageUrl = request.CoverImageUrl;
+                values.CreatedDate = request.CreatedDate;
+                values.AuthorID = request.AuthorID;
+                values.CategoryID = request.CategoryID;
+                await _repository.UpdateAsync(values);
+            }
         }
     }
 }
