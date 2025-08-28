@@ -258,10 +258,6 @@ namespace CarBook.Persistence.Migrations
                     b.Property<int>("CarID")
                         .HasColumnType("int");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 

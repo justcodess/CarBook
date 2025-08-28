@@ -33,8 +33,10 @@ namespace CarBook.webUI.Controllers
             var responseMessage = await client.PostAsync("https://localhost:7098/api/Contact", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index", "Default");
+                ViewBag.Message = "Message was sent";
+                return RedirectToAction("Index", stringContent);
             }
+            ViewBag.Message = "Message was not sent";
             return View();
 
         }

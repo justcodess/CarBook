@@ -582,6 +582,18 @@
         }
       }
     },
+    "/api/CarPricings": {
+      "get": {
+        "tags": [
+          "CarPricings"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Cars": {
       "get": {
         "tags": [
