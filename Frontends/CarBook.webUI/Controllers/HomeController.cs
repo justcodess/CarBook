@@ -15,18 +15,26 @@ namespace CarBook.webUI.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Index page has been opened.");
             return View();
         }
 
         public IActionResult Privacy()
         {
+            _logger.LogInformation("Privacy page has been opened.");
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            _logger.LogError("An error has occurred. RequestId: {RequestId}",
+                Activity.Current?.Id ?? HttpContext.TraceIdentifier);
+
+            return View(new ErrorViewModel
+            {
+                RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
+            });
         }
+
     }
 }

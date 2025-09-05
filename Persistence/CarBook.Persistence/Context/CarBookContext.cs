@@ -1,5 +1,24 @@
 ﻿using CarBook.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
+namespace CarBook.Persistence.Context
+{
+    public class CarBookContextFactory : IDesignTimeDbContextFactory<CarBookContext>
+    {
+        public CarBookContext CreateDbContext(string[] args)
+        {
+            var optionsBuilder = new DbContextOptionsBuilder<CarBookContext>();
+
+            // Buradaki connection string senin appsettings.json ile aynı olmalı
+            optionsBuilder.UseSqlServer(
+                "Server=ZEYNEP;Database=CarBook;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True");
+
+            return new CarBookContext(optionsBuilder.Options);
+        }
+    }
+}
+
 
 namespace CarBook.Persistence.Context
 {

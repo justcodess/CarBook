@@ -17,121 +17,121 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarBook.webUI
 build_property.RootNamespace = CarBook.webUI
-build_property.ProjectDir = C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI\
+build_property.ProjectDir = C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\.Git\CarBook\Frontends\CarBook.webUI
+build_property.MSBuildProjectDirectory = C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/About/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Car/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Car/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Contact/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Default/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Home/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Home/Privacy.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Service/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_AboutUsComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_AboutUsComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0VXNDb21wb25lbnRzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BecameADriverComponentPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BecameADriverComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JlY2FtZUFEcml2ZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultCoverUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultCoverUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDb3ZlclVJTGF5b3V0Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultLast5CarsWithBrandsComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultLast5CarsWithBrandsComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRMYXN0NUNhcnNXaXRoQnJhbmRzQ29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultStatisticsComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_DefaultStatisticsComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTdGF0aXN0aWNzQ29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_FooterAddressComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_FooterAddressComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckFkZHJlc3NDb21wb25lbnRzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_FooterUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_FooterUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlclVJTGF5b3V0Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_GetLast3BlogsWithAuthorListComponentPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_GetLast3BlogsWithAuthorListComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0dldExhc3QzQmxvZ3NXaXRoQXV0aG9yTGlzdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_HeadUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_HeadUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRVSUxheW91dENvbXBvbmVudHNQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_MainCoverUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_MainCoverUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01haW5Db3ZlclVJTGF5b3V0Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_NavbarUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_NavbarUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclVJTGF5b3V0Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_ScriptUILayoutComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_ScriptUILayoutComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NjcmlwdFVJTGF5b3V0Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_ServiceViewComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_ServiceViewComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VWaWV3Q29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_TestimonialComponentsPartial/Default.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_TestimonialComponentsPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsQ29tcG9uZW50c1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/Error.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/UILayout/Index.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/UILayout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/_ViewImports.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/_ViewStart.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/Desktop/.Git/CarBook/Frontends/CarBook.webUI/Views/Shared/_Layout.cshtml]
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dkvd9e7pjj

@@ -358,3 +358,6 @@ C:\Users\admin\Desktop\.Git\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0
 C:\Users\admin\Desktop\.Git\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0\CarBook.WebApi.pdb
 C:\Users\admin\Desktop\.Git\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0\CarBook.WebApi.genruntimeconfig.cache
 C:\Users\admin\Desktop\.Git\CarBook\Presentation\CarBook.WebApi\obj\Debug\net8.0\ref\CarBook.WebApi.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll

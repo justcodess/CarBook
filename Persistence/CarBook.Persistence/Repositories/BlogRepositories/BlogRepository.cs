@@ -6,33 +6,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CarBook.Persistence.Repositories.BlogRepositories
 {
-    public class BlogRepository: IBlogRepository
+    public class BlogRepository : IBlogRepository
     {
-        private readonly CarBookContext _carBookContext;
-        public BlogRepository(CarBookContext carBookContext)
-        {
-            _carBookContext = carBookContext;
-        }
+        private readonly CarBookContext _carBookContext; public BlogRepository(CarBookContext carBookContext) { _carBookContext = carBookContext; }
 
-        public List<Blog> GetAllBlogsWithAuthor()
-        {
-            var values = _carBookContext.Blogs
-                .Include(x => x.Author)
-                
-                .ToList();
-        }
+       // public List<Blog> GetAllBlogsWithAuthor() { var values = _carBookContext.Blogs.Include(x => x.Author).ToList(); }
 
-        public List<Blog> GetLast3BlogsWithAuthors()
-        {
-            var values = _carBookContext.Blogs
-                .Include(x => x.Author)
-                .OrderByDescending(x => x.BlogID)
-                .Take(3)
-                .ToList();
-            return values;
-        }
-        
+        public List<Blog> GetLast3BlogsWithAuthors() { var values = _carBookContext.Blogs.Include(x => x.Author).OrderByDescending(x => x.BlogID).Take(3).ToList(); return values; }
 
-       
+
+
     }
 }
+

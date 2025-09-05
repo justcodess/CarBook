@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarBook.webUI.props" />
+</Project>

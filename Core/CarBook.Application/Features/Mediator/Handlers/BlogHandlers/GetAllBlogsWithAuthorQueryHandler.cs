@@ -19,22 +19,10 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
         {
             _repository = repository;
         }
-        public async Task<List<GetAllBlogsWithAuthorQueryResult>> Handle(GetAllBlogsWithAuthorQuery request, CancellationToken cancellationToken)
+
+        public Task<List<GetAllBlogsWithAuthorQueryResult>> Handle(GetAllBlogsWithAuthorQuery request, CancellationToken cancellationToken)
         {
-            var values = _repository.GetAllBlogsWithAuthor();
-            return values.Select(x => new GetAllBlogsWithAuthorQueryResult
-            {
-                Title = x.Title,
-                AuthorID = x.AuthorID,
-                CoverImageUrl = x.CoverImageUrl,
-                CreatedDate = x.CreatedDate,
-                BlogID = x.BlogID,
-                CategoryID = x.CategoryID,
-                CategoryName= x.Category.CategoryName,
-                AuthorName = x.Author.Name 
-
-
-            }).ToList();
+            throw new NotImplementedException();
         }
     }
 }
