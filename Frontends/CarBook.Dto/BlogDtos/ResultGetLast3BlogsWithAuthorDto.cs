@@ -2,7 +2,7 @@
 
 namespace CarBook.Dto.BlogDtos
 {
-    public class ResultBlogDto
+    public class ResultGetLast3BlogsWithAuthorDto
     {
         public int BlogID { get; set; }
         public string Title { get; set; }

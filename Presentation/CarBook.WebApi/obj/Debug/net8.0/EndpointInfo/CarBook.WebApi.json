@@ -469,6 +469,18 @@
         }
       }
     },
+    "/api/Blogs/GetAllBlogsWithAuthorList": {
+      "get": {
+        "tags": [
+          "Blogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Brand": {
       "get": {
         "tags": [
@@ -2133,6 +2145,10 @@
           "categoryID": {
             "type": "integer",
             "format": "int32"
+          },
+          "categoryName": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

@@ -297,6 +297,16 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
+    "Method": "GetAllBlogsWithAuthorList",
+    "RelativePath": "api/Blogs/GetAllBlogsWithAuthorList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
     "Method": "GetLast3BlogsWithAuthorsList",
     "RelativePath": "api/Blogs/GetLast3BlogsWithAuthorsList",
     "HttpMethod": "GET",

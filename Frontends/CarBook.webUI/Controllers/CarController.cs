@@ -17,7 +17,7 @@ namespace CarBook.webUI.Controllers
         {
             ViewBag.v1 = "Cars";
             ViewBag.v2 = "Cars List";
-
+ 
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7098/api/CarPricings");
             if (responseMessage.IsSuccessStatusCode)
