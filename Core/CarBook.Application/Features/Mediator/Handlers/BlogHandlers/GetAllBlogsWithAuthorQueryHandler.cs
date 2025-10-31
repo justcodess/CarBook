@@ -26,7 +26,10 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
                 CategoryID = x.CategoryID,
                 CreatedDate = x.CreatedDate,
                 AuthorName = x.Author.Name,
-                Description = x.Description
+                Description = x.Description,
+                AuthorDescription = x.Author.Description,
+                AuthorImageUrl = x.Author.ImageUrl
+
 
 
             }).ToList();

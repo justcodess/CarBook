@@ -23,6 +23,7 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
                 values.CreatedDate = request.CreatedDate;
                 values.AuthorID = request.AuthorID;
                 values.CategoryID = request.CategoryID;
+                values.Description = request.Description;
 
                 await _repository.UpdateAsync(values);
             }

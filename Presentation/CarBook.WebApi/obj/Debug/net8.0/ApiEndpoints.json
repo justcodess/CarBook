@@ -307,6 +307,22 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
+    "Method": "GetBlogWithAuthorById",
+    "RelativePath": "api/Blogs/GetBlogWithAuthorById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
     "Method": "GetLast3BlogsWithAuthorsList",
     "RelativePath": "api/Blogs/GetLast3BlogsWithAuthorsList",
     "HttpMethod": "GET",
@@ -1155,6 +1171,22 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "GetTagCloudByBlogId",
+    "RelativePath": "api/TagClouds/GetTagCloudByBlogId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

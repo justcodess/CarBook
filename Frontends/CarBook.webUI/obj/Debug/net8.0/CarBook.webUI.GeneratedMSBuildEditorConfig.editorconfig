@@ -84,12 +84,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzQ2F0ZWdvcnlWaWV3Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsCloudTagByBlogComponentsPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzQ2xvdWRUYWdCeUJsb2dDb21wb25lbnRzUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailSideBarSearchBoxComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxTaWRlQmFyU2VhcmNoQm94Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsCloudTagByBlogComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzQ2xvdWRUYWdCeUJsb2dDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsMainComponentsPartial/Default.cshtml]
@@ -102,6 +98,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsRecentBlogsComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzUmVjZW50QmxvZ3NDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsSideBarSearchBoxComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dEZXRhaWxzU2lkZUJhclNlYXJjaEJveENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Views/Shared/Components/_BlogDetailsTagCloudComponentPartial/Default.cshtml]

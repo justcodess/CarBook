@@ -481,6 +481,28 @@
         }
       }
     },
+    "/api/Blogs/GetBlogWithAuthorById": {
+      "get": {
+        "tags": [
+          "Blogs"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Brand": {
       "get": {
         "tags": [
@@ -1760,6 +1782,28 @@
         }
       }
     },
+    "/api/TagClouds/GetTagCloudByBlogId": {
+      "get": {
+        "tags": [
+          "TagClouds"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Testimonial": {
       "get": {
         "tags": [
@@ -1944,6 +1988,10 @@
           "authorID": {
             "type": "integer",
             "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
           },
           "coverImageUrl": {
             "type": "string",
@@ -2272,6 +2320,10 @@
           "categoryID": {
             "type": "integer",
             "format": "int32"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
           },
           "categoryName": {
             "type": "string",

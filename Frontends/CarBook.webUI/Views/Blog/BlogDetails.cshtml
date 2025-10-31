@@ -7,22 +7,19 @@
 <section class="ftco-section ftco-degree-bg">
     <div class="container">
         <div class="row">
-            @await Component.InvokeAsync("_BlogDetailsMainComponentsPartial")
-
-            
-            <div class="col-md-4 sidebar ftco-animate">
-
-                @await Component.InvokeAsync("_BlogDetailSideBarSearchBoxComponentPartial")
-                @await Component.InvokeAsync("_BlogDetailsCategoryViewComponentPartial")
-                @await Component.InvokeAsync("_BlogDetailsRecentBlogsComponentPartial")
-                @await Component.InvokeAsync("_BlogDetailsTagCloudComponentPartial")
-                @await Component.InvokeAsync("_BlogDetailsParagraphComponentPartial")
-
-
-                
+            <div class="col-md-8">
+                @await Component.InvokeAsync("_BlogDetailsMainComponentsPartial", new { id = ViewBag.blogid })
             </div>
 
+            <div class="col-md-4 sidebar ftco-animate">
+                @await Component.InvokeAsync("_BlogDetailsSideBarSearchBoxComponentPartial")
+                @await Component.InvokeAsync("_BlogDetailsCategoryViewComponentPartial")
+                @await Component.InvokeAsync("_BlogDetailsRecentBlogsComponentPartial")
+                @await Component.InvokeAsync("_BlogDetailsTagCloudComponentPartial", new { id = ViewBag.blogid })
+                @await Component.InvokeAsync("_BlogDetailsParagraphComponentPartial")
+            </div>
         </div>
     </div>
 </section>
+
 

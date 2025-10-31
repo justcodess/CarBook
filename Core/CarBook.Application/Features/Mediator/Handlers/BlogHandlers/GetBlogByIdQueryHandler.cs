@@ -18,13 +18,19 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
         public async Task<GetBlogByIdQueryResult> Handle(GetBlogByIdQuery request, CancellationToken cancellationToken)
         {
             var values= await _repository.GetByIdAsync(request.Id);
+            if (values == null)
+            {
+                return null;
+                
+            }
             return new GetBlogByIdQueryResult
             {
                 BlogID= values.BlogID,
                 Title = values.Title,
                 CoverImageUrl= values.CoverImageUrl,
                 CreatedDate= values.CreatedDate,
-                AuthorID= values.AuthorID,
+                Description = values.Description,
+                AuthorID = values.AuthorID,
                 CategoryID= values.CategoryID,
           
 

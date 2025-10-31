@@ -2,7 +2,7 @@
 
 namespace CarBook.webUI.ViewComponents.BlogViewComponents
 {
-    public class _BlogDetailSideBarSearchBoxComponentPartial : ViewComponent
+    public class _BlogDetailsSideBarSearchBoxComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
