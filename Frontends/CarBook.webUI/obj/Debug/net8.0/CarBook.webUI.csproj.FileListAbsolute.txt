@@ -268,7 +268,6 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debu
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\NuGet.Common.dll
@@ -287,11 +286,8 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debu
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -431,10 +427,6 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debu
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\CarBook.Dto.dll
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\CarBook.Dto.pdb
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\CarBook.webUI.csproj.AssemblyReference.cache
@@ -465,3 +457,13 @@ C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\obj\Debu
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\CarBook.webUI.pdb
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\CarBook.webUI.genruntimeconfig.cache
 C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\obj\Debug\net8.0\ref\CarBook.webUI.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\zeyne\OneDrive\Belgeler\GitHub\CarBook\Frontends\CarBook.webUI\bin\Debug\net8.0\System.Text.Json.dll
