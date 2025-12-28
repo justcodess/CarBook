@@ -1,0 +1,47 @@
+﻿@model UpdateBannerDto
+
+@{
+    ViewData["Title"] = "UpdateBanner";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Update Banner Area</h4>
+                        <p class="card-subtitle mb-4">Update Banners related to cars area.</p>
+
+                        <form asp-action="UpdateBanner" method="post">
+                            <input type="hidden" asp-for="BannerId" />
+
+                            <div class="form-group">
+                                <label for="exampleInputName">Title</label>
+                                <input type="text" class="form-control" id="exampleInputName" asp-for="Title" placeholder="Enter New Banner Title">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Description</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="Description" placeholder="Enter New Banner Description">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Video Url</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="VideoUrl" placeholder="Enter New Banner Video Url">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Video Description</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="VideoDescription" placeholder="Enter New Banner Video Description">
+                            </div>
+
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

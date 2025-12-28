@@ -1,0 +1,62 @@
+﻿@model List<ResultBrandDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<div class="page-content">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Car Brand List</h4>
+                        <p class="card-subtitle mb-4">
+                            This area allows you to add new vehicle brands. 
+
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Brands</th>
+                                        <th>Delete</th>
+                                        <th>Update</th>
+										<th>Vehicles by Brand</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <th scope="row">@count</th>
+                                            <td>@item.Name</td>
+
+                                            <td>
+                                                <a href="/AdminBrand/RemoveBrand/@item.BrandID"
+                                                   class="btn btn-outline-danger">Delete</a>
+                                            </td>
+                                            <td>
+                                                <a href="/AdminBrand/UpdateBrand/@item.BrandID"
+                                                   class="btn btn-outline-success">Update></a>
+                                            </td>
+                                            <td>
+                                                <a href="/AdminBrand/#/@item.BrandID"
+                                                   class="btn btn-outline-dark">Vehicles by Brand></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <a href="/AdminBrand/CreateBrand/" class="btn btn-outline-primary"> Add New Brand></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+

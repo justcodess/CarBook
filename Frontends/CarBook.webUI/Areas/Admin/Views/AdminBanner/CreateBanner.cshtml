@@ -1,0 +1,49 @@
+﻿@model CreateBannerDto
+@{
+    ViewData["Title"] = "CreateBanner";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Add New Banner</h4>
+                        <p class="card-subtitle mb-4">
+                            Add Banner area related to cars If you create a new banner, please delete the old one to avoid breaking the layout consistency.
+                        </p>
+
+                        <form asp-action="CreateBanner" method="post">
+
+
+                            <div class="form-group">
+                                <label for="exampleInputModel">Title</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="Title" placeholder="Enter Banner Title">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Description</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="Description" placeholder="Enter  Banner Description">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Video Url</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="VideoUrl" placeholder="Enter Banner Video Url">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputModel">Video Description</label>
+                                <input type="text" class="form-control" id="exampleInputModel" asp-for="VideoDescription" placeholder="Enter Banner Video Description">
+                            </div>
+                            
+
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
