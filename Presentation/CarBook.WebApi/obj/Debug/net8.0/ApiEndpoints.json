@@ -249,22 +249,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
-    "Method": "RemoveBlog",
-    "RelativePath": "api/Blogs",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
     "Method": "UpdateBlog",
     "RelativePath": "api/Blogs",
     "HttpMethod": "PUT",
@@ -284,6 +268,22 @@
     "Method": "GetBlog",
     "RelativePath": "api/Blogs/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
+    "Method": "RemoveBlog",
+    "RelativePath": "api/Blogs/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

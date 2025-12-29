@@ -2,6 +2,7 @@
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using CarBook.Dto.BlogDtos;
 
 namespace CarBook.webUI.Areas.Admin.Controllers
 {
@@ -39,7 +40,8 @@ namespace CarBook.webUI.Areas.Admin.Controllers
             var values = JsonConvert.DeserializeObject<List<ResultAboutDto>>(jsonData);
 
 
-            return View();
+            return View(new List<ResultAllBlogsWithAuthorDto>());
+
         }
         [HttpPost]
         [Route("CreateAbout")]

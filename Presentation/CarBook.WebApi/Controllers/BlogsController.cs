@@ -53,7 +53,7 @@ namespace CarBook.WebApi.Controllers
             await _mediator.Send(command);
             return Ok("Blog Info Added.");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveBlog(int id)
         {
             await _mediator.Send(new RemoveBlogCommand(id));
