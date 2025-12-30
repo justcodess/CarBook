@@ -923,22 +923,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.LocationController",
-    "Method": "RemoveLocation",
-    "RelativePath": "api/Location",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.LocationController",
     "Method": "UpdateLocation",
     "RelativePath": "api/Location",
     "HttpMethod": "PUT",
@@ -958,6 +942,22 @@
     "Method": "GetLocation",
     "RelativePath": "api/Location/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.LocationController",
+    "Method": "RemoveLocation",
+    "RelativePath": "api/Location/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\adminfooteraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\adminfooteraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\views\\adminlayout\\adminsidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\adminlayout\\adminsidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\footeraddresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\updatefooteraddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\updatefooteraddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminlocation\\updatelocation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminlocation\\updatelocation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\createfooteraddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminfooteraddress\\createfooteraddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\adminlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\adminlocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.dto\\footeraddressdtos\\resultfooteraddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\footeraddressdtos\\resultfooteraddressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminlocation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.dto\\locationdtos\\resultlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\locationdtos\\resultlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.dto\\locationdtos\\createlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E423DC3-7BEC-49FD-B2C2-F556F0298407}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\locationdtos\\createlocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FooterAddressController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\FooterAddressController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T16:18:44.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResultFooterAddressDto.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\FooterAddressDtos\\ResultFooterAddressDto.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\FooterAddressDtos\\ResultFooterAddressDto.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\FooterAddressDtos\\ResultFooterAddressDto.cs",
-              "RelativeToolTip": "Frontends\\CarBook.Dto\\FooterAddressDtos\\ResultFooterAddressDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T16:14:48.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminSidebarPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
               "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
               "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
               "RelativeToolTip": "Frontends\\CarBook.webUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T16:11:12.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateFooterAddress.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\UpdateFooterAddress.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\UpdateFooterAddress.cshtml",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\UpdateFooterAddress.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\UpdateFooterAddress.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T16:09:34.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateFooterAddress.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\CreateFooterAddress.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\CreateFooterAddress.cshtml",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\CreateFooterAddress.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\CreateFooterAddress.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T16:04:39.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminFooterAddress\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T16:00:48.362Z",
+              "WhenOpened": "2025-12-30T16:39:54.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminFooterAddressController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminFooterAddressController.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminFooterAddressController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminFooterAddressController.cs",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminFooterAddressController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwCoAAAAYAAAAAAAAAA==",
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T15:59:34.68Z",
+              "WhenOpened": "2025-12-30T16:39:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateLocation.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\UpdateLocation.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\UpdateLocation.cshtml",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\UpdateLocation.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\UpdateLocation.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T16:38:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminLocation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T16:29:40.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLocationController.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminLocationController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminLocationController.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminLocationController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminLocationController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:28:28.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateLocationDto.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\LocationDtos\\CreateLocationDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\LocationDtos\\CreateLocationDto.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\LocationDtos\\CreateLocationDto.cs",
+              "RelativeToolTip": "Frontends\\CarBook.Dto\\LocationDtos\\CreateLocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:27:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultLocationDto.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\LocationDtos\\ResultLocationDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\LocationDtos\\ResultLocationDto.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\LocationDtos\\ResultLocationDto.cs",
+              "RelativeToolTip": "Frontends\\CarBook.Dto\\LocationDtos\\ResultLocationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:26:43.832Z",
               "EditorCaption": ""
             }
           ]

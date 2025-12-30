@@ -1,0 +1,59 @@
+﻿@model List<ResultLocationDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<div class="page-content">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title"> Location List</h4>
+                        <p class="card-subtitle mb-4">
+
+
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Location</th>
+
+                                        <th>Delete</th>
+                                        <th>Update</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <th scope="row">@count</th>
+                                            <td>@item.Name</td>
+
+
+                                            <td>
+                                                <a href="/Admin/AdminLocation/RemoveLocation/@item.LocationID"
+                                                   class="btn btn-outline-danger">Delete</a>
+                                            </td>
+                                            <td>
+                                                <a href="/Admin/AdminLocation/UpdateLocation/@item.LocationID"
+                                                   class="btn btn-outline-success">Update</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <a href="/Admin/AdminLocation/CreateLocation/" class="btn btn-outline-primary"> Add New Location></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
