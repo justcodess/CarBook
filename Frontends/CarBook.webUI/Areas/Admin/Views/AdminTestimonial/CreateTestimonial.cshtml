@@ -1,0 +1,50 @@
+﻿@model CreateTestimonialDto
+@{
+    ViewData["Title"] = "CreateTestimonial";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Add New Testimonial</h4>
+                        <p class="card-subtitle mb-4">
+                            Add Testimonial area related to cars
+                        </p>
+
+                        <form asp-area="Admin"
+                              asp-controller="AdminTestimonial"
+                              asp-action="CreateTestimonial"
+                              method="post">
+
+
+                            <div class="form-group">
+                                <label for="exampleInputTestimonial">User Name</label>
+                                <input type="text" class="form-control" id="exampleInputTestimonial" asp-for="Name" placeholder="Enter Testimonial Name">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputTitle">Title</label>
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Title" placeholder="Enter  Testimonial Title">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputComment">Comment</label>
+                                <input type="text" class="form-control" id="exampleInputComment" asp-for="Comment" placeholder="Add Comment Detail">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputImageUrl">User Image Url</label>
+                                <input type="text" class="form-control" id="exampleInputImageUrl" asp-for="ImageUrl" placeholder="Add User Image Url">
+                            </div>
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -33,7 +33,7 @@ namespace CarBook.WebApi.Controllers
             await _mediator.Send(command);
             return Ok("Testimonial Info Added.");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveTestimonial(int id)
         {
             await _mediator.Send(new RemoveTestimonialCommand(id));
