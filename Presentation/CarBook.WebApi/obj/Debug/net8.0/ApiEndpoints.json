@@ -1145,22 +1145,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.SocialMediaController",
-    "Method": "RemoveSocialMedia",
-    "RelativePath": "api/SocialMedia",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.SocialMediaController",
     "Method": "UpdateSocialMedia",
     "RelativePath": "api/SocialMedia",
     "HttpMethod": "PUT",
@@ -1180,6 +1164,22 @@
     "Method": "GetSocialMedia",
     "RelativePath": "api/SocialMedia/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.SocialMediaController",
+    "Method": "RemoveSocialMedia",
+    "RelativePath": "api/SocialMedia/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

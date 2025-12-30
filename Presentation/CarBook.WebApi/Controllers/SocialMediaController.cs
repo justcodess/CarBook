@@ -28,12 +28,13 @@ namespace CarBook.WebApi.Controllers
             return Ok(values);
         }
         [HttpPost]
-        public async Task<IActionResult> CreateSocialMedia(CreateSocialMediaCommand command)
+        public async Task<IActionResult> CreateSocialMedia([FromBody] CreateSocialMediaCommand command)
         {
             await _mediator.Send(command);
             return Ok("SocialMedia Info Added.");
         }
-        [HttpDelete]
+
+        [HttpDelete("{id}")]
         public async Task<IActionResult> RemoveSocialMedia(int id)
         {
             await _mediator.Send(new RemoveSocialMediaCommand(id));
