@@ -997,22 +997,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.PricingController",
-    "Method": "RemovePricing",
-    "RelativePath": "api/Pricing",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.PricingController",
     "Method": "UpdatePricing",
     "RelativePath": "api/Pricing",
     "HttpMethod": "PUT",
@@ -1032,6 +1016,22 @@
     "Method": "GetPricing",
     "RelativePath": "api/Pricing/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.PricingController",
+    "Method": "RemovePricing",
+    "RelativePath": "api/Pricing/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

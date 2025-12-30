@@ -55,8 +55,7 @@
               "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminComment\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T12:32:18.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T12:32:18.443Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminCommentController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwBEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T12:27:10.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T12:27:10.596Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Frontends\\CarBook.Dto\\CommentDtos\\ResultCommentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T12:25:33.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T12:25:33.551Z"
             }
           ]
         }

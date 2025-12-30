@@ -1,0 +1,35 @@
+﻿@model UpdatePricingDto
+
+@{
+    ViewData["Title"] = "UpdatePricing";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Update Pricing Area</h4>
+                        <p class="You can update the payment period data in the section below."</p>
+
+                        <form asp-action="UpdatePricing" method="post">
+                            <input type="hidden" asp-for="PricingID" />
+                            
+                            <div class="form-group">
+                                <label for="exampleInputTitle">Payment Period</label>
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Name" placeholder="Update Payment Period (Daily / Weekly / Monthly)">
+                            </div>
+                            
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

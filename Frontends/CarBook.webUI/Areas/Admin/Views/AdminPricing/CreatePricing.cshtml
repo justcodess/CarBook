@@ -1,0 +1,39 @@
+﻿@model CreatePricingDto
+
+@{
+    ViewData["Title"] = "CreatePricing";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Add New Pricing</h4>
+                        <p class="card-subtitle mb-4">
+                            Payment period information can be entered in the section below.
+                        </p>
+
+                        <form asp-action="CreatePricing" method="post">
+
+
+                            <div class="form-group">
+                                <label for="exampleInputTitle">Payment Period</label>
+                                <input type="text" class="form-control" id="exampleInputTitle" asp-for="Name" placeholder="Payment Period (Daily / Weekly / Monthly)">
+                            </div>
+                            
+
+
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
