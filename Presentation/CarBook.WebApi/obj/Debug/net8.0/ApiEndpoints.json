@@ -1071,22 +1071,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.ServiceController",
-    "Method": "RemoveService",
-    "RelativePath": "api/Service",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.ServiceController",
     "Method": "UpdateService",
     "RelativePath": "api/Service",
     "HttpMethod": "PUT",
@@ -1106,6 +1090,22 @@
     "Method": "GetService",
     "RelativePath": "api/Service/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.ServiceController",
+    "Method": "RemoveService",
+    "RelativePath": "api/Service/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
