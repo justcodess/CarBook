@@ -37,10 +37,10 @@
                                         count++;
                                         <tr>
                                             <th scope="row">@count</th>
-                                            <td>@item.Title</td>
+                                            <td>@item.Title</td>  
                                             <td>@item.Description</td>
                                             <td>@item.AuthorName</td>
-                                            <td>@item.CategoryName</td>
+                                            <td>@item.CategoryID</td>
 
                                             <td>
                                                 <a href="/Admin/AdminBlog/RemoveBlog/@item.BlogID"
@@ -52,8 +52,8 @@
                                                    class="btn btn-outline-dark">Blogs Details</a>
                                             </td>
                                             <td>
-                                                <a href="/Admin/AdminBlog/BlogListByBlogID/@item.BlogID"
-                                                   class="btn btn-outline-secondary">Reviews Details</a>
+                                                <a href="/Admin/AdminComment/Index/@item.BlogID"
+                                                   class="btn btn-outline-warning">Reviews Details</a>
                                             </td>
                                         </tr>
                                     }

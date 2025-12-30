@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 using CarBook.Application.Features.RepositoryPattern;
 using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
@@ -37,6 +38,11 @@ namespace CarBook.Persistence.Repositories.CommentRepositories
         public Comment GetById(int id)
         {
            return _context.Comments.Find(id);
+        }
+
+        public List<Comment> GetCommentsByBlogId(int id)
+        {
+            return _context.Set<Comment>().Where(x => x.BlogId == id).ToList();
         }
 
         public void Remove(Comment entity)
