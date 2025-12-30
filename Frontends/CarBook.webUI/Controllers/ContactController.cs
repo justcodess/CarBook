@@ -1,4 +1,5 @@
-﻿using CarBook.Dto.ContactDtos;
+﻿
+using CarBook.Dto.ContactDtos;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
  using System.Text;
@@ -27,7 +28,7 @@ namespace CarBook.webUI.Controllers
         public async Task<IActionResult> Index(CreateContactDto createContactDto)
         {
             var client = _httpClientFactory.CreateClient();
-            createContactDto.CreatedDate = DateTime.Now;
+            createContactDto.SentDate = DateTime.Now;
             var jsonData = JsonConvert.SerializeObject(createContactDto);
             StringContent stringContent = new StringContent(jsonData,Encoding.UTF8, "application/json");
             var responseMessage = await client.PostAsync("https://localhost:7098/api/Contact", stringContent);

@@ -1,0 +1,64 @@
+﻿
+
+@model List<ResultFooterAddressDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+<div class="page-content">
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">FooterAddress Page</h4>
+                        <p class="card-subtitle mb-4">
+                            This section allows you to manage footer addresses (add, update, and delete).
+
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Address</th>
+                                        <th>Phone</th>
+                                        <th>Email</th>
+                                        <th>Description</th>
+                                        <th>Delete</th>
+                                        <th>Update</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <th scope="row">@count</th>
+                                            <td>@item.Address</td>
+                                            <td>@item.Phone</td>
+                                            <td>@item.Email</td>
+                                            <td>@item.Description</td>
+
+                                            <td>
+                                                <a href="/Admin/AdminFooterAddress/RemoveFooterAddress/@item.FooterAddressID"
+                                                   class="btn btn-outline-danger">Delete</a>
+                                            </td>
+                                            <td>
+                                                <a href="/Admin/AdminFooterAddress/UpdateFooterAddress/@item.FooterAddressID"
+                                                   class="btn btn-outline-success">Update</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                            <a href="/Admin/AdminFooterAddress/CreateFooterAddress/" class="btn btn-outline-primary"> Add New FooterAddress></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+

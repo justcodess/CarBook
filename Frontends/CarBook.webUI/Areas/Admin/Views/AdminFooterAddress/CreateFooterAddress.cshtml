@@ -1,0 +1,49 @@
+﻿@model CreateFooterAddressDto
+@{
+    ViewData["Title"] = "CreateFooterAddress";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+
+                        <h4 class="card-title">Add New FooterAddress</h4>
+                        <p class="card-subtitle mb-4">
+                            This section allows you to add information related to the footer address.
+                        </p>
+
+                        <form asp-action="CreateFooterAddress" method="post">
+
+
+                            <div class="form-group">
+                                <label for="exampleInputAddress">Address</label>
+                                <input type="text" class="form-control" id="exampleInputAddress" asp-for="Address" placeholder="Enter Address">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputPhone">Phone</label>
+                                <input type="text" class="form-control" id="exampleInputPhone" asp-for="Phone" placeholder="Enter Phone">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputEmail">Email</label>
+                                <input type="text" class="form-control" id="exampleInputEmail" asp-for="Email" placeholder="Enter Email Address">
+                            </div>
+                            <div class="form-group">
+                                <label for="exampleInputDescription">Description</label>
+                                <input type="text" class="form-control" id="exampleInputDescription" asp-for="Description" placeholder="Enter FooterAddress Description">
+                            </div>
+
+
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Submit</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

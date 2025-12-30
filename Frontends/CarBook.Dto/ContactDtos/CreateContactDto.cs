@@ -10,9 +10,8 @@ namespace CarBook.Dto.ContactDtos
     {
         public string Name { get; set; }
         public string Email { get; set; }
-        public string Phone { get; set; }
         public string Subject { get; set; }
         public string Message { get; set; }
-        public DateTime CreatedDate { get; set; }
+        public DateTime SentDate { get; set; }
     }
 }
