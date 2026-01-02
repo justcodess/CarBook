@@ -1817,6 +1817,18 @@
         }
       }
     },
+    "/api/Statistic/GetCarCount": {
+      "get": {
+        "tags": [
+          "Statistic"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/TagClouds": {
       "get": {
         "tags": [

@@ -29,41 +29,7 @@ namespace CarBook.webUI.Areas.Admin.Controllers
             }
             return View();
         }
-        [HttpGet]
-        [Route("CreateTestimonial")]
-        public async Task<IActionResult> CreateTestimonial()
-        {
-            var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.GetAsync("https://localhost:7098/api/Testimonial");
-            var jsonData = await responseMessage.Content.ReadAsStringAsync();
-            var values = JsonConvert.DeserializeObject<List<ResultTestimonialDto>>(jsonData);
-
-
-            return View();
-        }
-        [HttpPost]
-        [Route("CreateTestimonial")]
-        public async Task<IActionResult> CreateTestimonial(CreateTestimonialDto createTestimonialDto)
-        {
-            var client = _httpClientFactory.CreateClient();
-            var jsonData = JsonConvert.SerializeObject(createTestimonialDto);
-
-            StringContent stringContent = new StringContent(
-                jsonData,
-                Encoding.UTF8,
-                "application/json");
-
-            var responseMessage = await client.PostAsync(
-                "https://localhost:7098/api/Testimonial",
-                stringContent);
-
-            if (responseMessage.IsSuccessStatusCode)
-            {
-                return RedirectToAction("Index", "AdminTestimonial", new { area = "Admin" });
-            }
-
-            return View();
-        }
+        
         [Route("RemoveTestimonial/{id}")]
         public IActionResult RemoveTestimonial(int id)
         {
