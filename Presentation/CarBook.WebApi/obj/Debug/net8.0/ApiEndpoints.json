@@ -1193,8 +1193,158 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetAuthorCount",
+    "RelativePath": "api/Statistic/GetAuthorCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetAutomaticTransmissionCarCount",
+    "RelativePath": "api/Statistic/GetAutomaticTransmissionCarCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetBlogCount",
+    "RelativePath": "api/Statistic/GetBlogCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetBlogWithMostComments",
+    "RelativePath": "api/Statistic/GetBlogWithMostComments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetBrandCount",
+    "RelativePath": "api/Statistic/GetBrandCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetBrandWithMostCars",
+    "RelativePath": "api/Statistic/GetBrandWithMostCars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetCarBrandAndModelByRentPriceDailyMax",
+    "RelativePath": "api/Statistic/GetCarBrandAndModelByRentPriceDailyMax",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetCarBrandAndModelByRentPriceDailyMin",
+    "RelativePath": "api/Statistic/GetCarBrandAndModelByRentPriceDailyMin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
     "Method": "GetCarCount",
     "RelativePath": "api/Statistic/GetCarCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetCarCountByFuelElectricOrHybrid",
+    "RelativePath": "api/Statistic/GetCarCountByFuelElectricOrHybrid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetCarCountByFuelGasolineOrDiesel",
+    "RelativePath": "api/Statistic/GetCarCountByFuelGasolineOrDiesel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetCarCountByKmLessThan1000",
+    "RelativePath": "api/Statistic/GetCarCountByKmLessThan1000",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetDailyAveragePrice",
+    "RelativePath": "api/Statistic/GetDailyAveragePrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetLocationCount",
+    "RelativePath": "api/Statistic/GetLocationCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetMonthlyAveragePrice",
+    "RelativePath": "api/Statistic/GetMonthlyAveragePrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.StatisticController",
+    "Method": "GetWeeklyAveragePrice",
+    "RelativePath": "api/Statistic/GetWeeklyAveragePrice",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
