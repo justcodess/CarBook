@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\persistence\\carbook.persistence\\repositories\\statisticsrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|solutionrelative:persistence\\carbook.persistence\\repositories\\statisticsrepositories\\statisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.domain\\entities\\carpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|solutionrelative:core\\carbook.domain\\entities\\carpricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.domain\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB91C529-4A9D-4A34-9152-851EE3A17BD9}|Core\\CarBook.Domain\\CarBook.Domain.csproj|solutionrelative:core\\carbook.domain\\entities\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\interfaces\\statisticsinterfaces\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\interfaces\\statisticsinterfaces\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\queries\\statisticqueries\\getcarcountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\queries\\statisticqueries\\getcarcountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\statistichandlers\\getcarcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\statistichandlers\\getcarcountqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\results\\statisticresults\\getcarcountqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\results\\statisticresults\\getcarcountqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\adminstatisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\adminstatisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminstatistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminstatistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,141 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarPricing.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\CarPricing.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Domain\\Entities\\CarPricing.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\CarPricing.cs",
-              "RelativeToolTip": "Core\\CarBook.Domain\\Entities\\CarPricing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:22:53.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pricing.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\Pricing.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Domain\\Entities\\Pricing.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Domain\\Entities\\Pricing.cs",
-              "RelativeToolTip": "Core\\CarBook.Domain\\Entities\\Pricing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:22:48.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatisticsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
-              "RelativeDocumentMoniker": "Persistence\\CarBook.Persistence\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
-              "RelativeToolTip": "Persistence\\CarBook.Persistence\\Repositories\\StatisticsRepositories\\StatisticsRepository.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswFYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:10:49.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IStatisticsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:47:27.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StatisticController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\StatisticController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\StatisticController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\StatisticController.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\StatisticController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T14:32:28.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCarCountQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\StatisticHandlers\\GetCarCountQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\StatisticHandlers\\GetCarCountQueryHandler.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\StatisticHandlers\\GetCarCountQueryHandler.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\StatisticHandlers\\GetCarCountQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:40:33.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetCarCountQuery.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\StatisticQueries\\GetCarCountQuery.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\StatisticQueries\\GetCarCountQuery.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\StatisticQueries\\GetCarCountQuery.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\StatisticQueries\\GetCarCountQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:39:50.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetCarCountQueryResult.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Results\\StatisticResults\\GetCarCountQueryResult.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Results\\StatisticResults\\GetCarCountQueryResult.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Results\\StatisticResults\\GetCarCountQueryResult.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Results\\StatisticResults\\GetCarCountQueryResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:37:40.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminStatistic\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminStatistic\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminStatistic\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminStatistic\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T12:25:46.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminStatisticController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminStatisticController.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminStatisticController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminStatisticController.cs",
-              "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminStatisticController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:21:55.242Z",
-              "EditorCaption": ""
             }
           ]
         }

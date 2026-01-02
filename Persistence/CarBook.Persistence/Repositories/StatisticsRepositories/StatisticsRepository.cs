@@ -24,7 +24,8 @@ namespace CarBook.Persistence.Repositories.StatisticsRepositories
 
         public int GetAutomaticTransmissionCarCount()
         {
-            throw new NotImplementedException();
+            var value = _context.Cars.Where(x => x.Transmission == "Automatic").Count();
+            return value;
         }
 
         public int GetBlogCount()
@@ -35,7 +36,11 @@ namespace CarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetBlogWithMostComments()
         {
-            throw new NotImplementedException();
+            var value = _context.Blogs
+                .OrderByDescending(b => b.Comments.Count)
+                .Select(b => b.Title)
+                .FirstOrDefault();
+            return value;
         }
 
         public int GetBrandCount()
@@ -46,7 +51,11 @@ namespace CarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetBrandWithMostCars()
         {
-            throw new NotImplementedException();
+            var value = _context.Brands
+                .OrderByDescending(b => b.Cars.Count)
+                .Select(b => b.Name)
+                .FirstOrDefault();
+            return value;
         }
 
         public string GetCarBrandAndModelByRentPriceDailyMax()
@@ -67,17 +76,20 @@ namespace CarBook.Persistence.Repositories.StatisticsRepositories
 
         public int GetCarCountByFuelElectricOrHybrid()
         {
-            throw new NotImplementedException();
+            var value = _context.Cars.Where(x => x.Fuel == "Electric" || x.Fuel == "Hybrid").Count();
+            return value;
         }
 
         public int GetCarCountByFuelGasolineOrDiesel()
         {
-            throw new NotImplementedException();
+            var value = _context.Cars.Where(x => x.Fuel == "Gasoline" || x.Fuel == "Diesel").Count();
+            return value;
         }
 
         public int GetCarCountByKmLessThan1000()
         {
-            throw new NotImplementedException();
+            var value = _context.Cars.Where(x => x.Km < 1000).Count();
+            return value;
         }
 
         public int GetLocationCount()
