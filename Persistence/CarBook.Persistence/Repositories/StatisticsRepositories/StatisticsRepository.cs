@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CarBook.Application.Interfaces.StatisticsInterfaces;
+using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
+using Microsoft.EntityFrameworkCore;
 
 namespace CarBook.Persistence.Repositories.StatisticsRepositories
 {
@@ -60,12 +62,40 @@ namespace CarBook.Persistence.Repositories.StatisticsRepositories
 
         public string GetCarBrandAndModelByRentPriceDailyMax()
         {
-            throw new NotImplementedException();
+            int pricingId = _context.Pricings
+                .Where(p => p.Name == "Daily")
+                .Select(p => p.PricingID)
+                .FirstOrDefault();
+            decimal price = _context.CarPricings
+                .Where(cp => cp.PricingID== pricingId)
+                .Max(cp => cp.Price);
+            int carId = _context.CarPricings
+                .Where(cp => cp.PricingID == pricingId && cp.Price == price)
+                .Select(cp => cp.CarID)
+                .FirstOrDefault();
+            string brandModel = _context.Cars
+                .Where(c => c.CarID == carId)
+                .Include(c => c.Brand).Select(c => c.Brand.Name + " " + c.Model).FirstOrDefault();
+            return brandModel;
         }
 
         public string GetCarBrandAndModelByRentPriceDailyMin()
         {
-            throw new NotImplementedException();
+            int pricingId = _context.Pricings
+               .Where(p => p.Name == "Daily")
+               .Select(p => p.PricingID)
+               .FirstOrDefault();
+            decimal price = _context.CarPricings
+                .Where(cp => cp.PricingID == pricingId)
+                .Min(cp => cp.Price);
+            int carId = _context.CarPricings
+                .Where(cp => cp.PricingID == pricingId && cp.Price == price)
+                .Select(cp => cp.CarID)
+                .FirstOrDefault();
+            string brandModel = _context.Cars
+                .Where(c => c.CarID == carId)
+                .Include(c => c.Brand).Select(c => c.Brand.Name + " " + c.Model).FirstOrDefault();
+            return brandModel;
         }
 
         public int GetCarCount()
