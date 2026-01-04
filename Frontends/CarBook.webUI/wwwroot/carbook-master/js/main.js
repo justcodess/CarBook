@@ -318,7 +318,21 @@
 	  'format': 'm/d/yyyy',
 	  'autoclose': true
 	});
-	$('#time_pick').timepicker();
+	$('#time_pick, #time_off').timepicker({
+		timeFormat: 'HH:mm',
+		interval: 30,
+		scrollbar: true,
+		appendTo: 'body'
+	});
+
+	
+
+
+
+
+
+
+
 
 
 

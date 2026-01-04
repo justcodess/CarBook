@@ -11532,8 +11532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ka17zlsh9l</Fingerprint>
-      <Integrity>THm6OOuBTPRzpCqy9qZbHLH7PIIFKv2aNwgYGFrSRlo=</Integrity>
+      <Fingerprint>wzae5i83sp</Fingerprint>
+      <Integrity>LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\css\style.css'))</OriginalItemSpec>
@@ -12756,8 +12756,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wtuyohv8hl</Fingerprint>
-      <Integrity>lLyeYoOQFOo5buuMtcmxg1xTXYqK1vMSKtAbufABHI0=</Integrity>
+      <Fingerprint>kupmeeqmap</Fingerprint>
+      <Integrity>XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\js\main.js'))</OriginalItemSpec>
@@ -14574,8 +14574,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>c2tiyv64ts</Fingerprint>
-      <Integrity>pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=</Integrity>
+      <Fingerprint>x1c7p3d2yl</Fingerprint>
+      <Integrity>xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

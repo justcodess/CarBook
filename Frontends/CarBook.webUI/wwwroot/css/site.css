@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+.ui-timepicker-wrapper {
+    z-index: 99999 !important;
+    position: absolute !important;
+}

@@ -17,10 +17,55 @@
     <link rel="stylesheet" href="~/carbook-master/css/ionicons.min.css">
 
     <link rel="stylesheet" href="~/carbook-master/css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="~/carbook-master//jquery.timepicker.css">
+    <link rel="stylesheet" href="~/carbook-master/css/jquery.timepicker.css">
 
 
     <link rel="stylesheet" href="~/carbook-master/css/flaticon.css">
     <link rel="stylesheet" href="~/carbook-master/css/icomoon.css">
     <link rel="stylesheet" href="~/carbook-master/css/style.css">
+    <style>
+        .ftco-section,
+        .hero-wrap,
+        .form-group {
+            overflow: visible !important;
+        }
+
+        .ui-timepicker-wrapper {
+            z-index: 99999 !important;
+        }
+        /* === TIMEPICKER HARD FIX === */
+        .ui-timepicker-wrapper {
+            position: absolute !important;
+            z-index: 999999 !important;
+        }
+
+        /* overlay pseudo-elementleri etkisizleştir */
+        .hero-wrap::before,
+        .ftco-section::before,
+        .overlay::before {
+            z-index: 1 !important;
+        }
+
+        /* form katmanını öne al */
+        .ftco-booking,
+        .block-17 {
+            position: relative;
+            z-index: 999999;
+        }
+
+        /* overflow kesmelerini kaldır */
+        .ftco-section,
+        .hero-wrap,
+        .block-17,
+        .ftco-booking,
+        .form-group,
+        .row {
+            overflow: visible !important;
+        }
+
+    </style>
+
+
+
+
 </head>
