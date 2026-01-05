@@ -1,4 +1,5 @@
-﻿using System.Windows.Markup;
+﻿using System.Diagnostics;
+using System.Windows.Markup;
 using CarBook.Application.Features.Mediator.Queries.RentACarQueries;
 using CarBook.Application.Features.Mediator.Results.RentACarResults;
 using CarBook.Application.Interfaces.RentACarInterfaces;
@@ -21,6 +22,10 @@ namespace CarBook.Application.Features.Mediator.Handlers.RentACarHandlers
             var result= value.Select(x => new GetRentACarQueryResult
             {
                 CarID = x.CarID,
+                Brand = x.Car.Brand.Name,
+                Model = x.Car.Model,
+                CoverImageUrl = x.Car.CoverImgUrl
+
             }).ToList();
             return result;
         }
