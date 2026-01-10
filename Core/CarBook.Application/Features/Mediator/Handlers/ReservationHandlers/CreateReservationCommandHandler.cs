@@ -31,7 +31,8 @@ namespace CarBook.Application.Features.Mediator.Handlers.ReservationHandlers
                 DropOffLocationID = request.DropOffLocationID,
                 Age = request.Age,
                 DriverLicenceYear = request.DriverLicenceYear,
-                Description = request.Description
+                Description = request.Description,
+                Status = "Reservation confirmed"
 
 
             });
