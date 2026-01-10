@@ -11532,8 +11532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wzae5i83sp</Fingerprint>
-      <Integrity>LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8=</Integrity>
+      <Fingerprint>rok8fwj8x5</Fingerprint>
+      <Integrity>uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\css\style.css'))</OriginalItemSpec>
@@ -12756,8 +12756,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>kupmeeqmap</Fingerprint>
-      <Integrity>XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y=</Integrity>
+      <Fingerprint>7bohskoscf</Fingerprint>
+      <Integrity>rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\js\main.js'))</OriginalItemSpec>
@@ -14520,8 +14520,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zdw9arda7c</Fingerprint>
-      <Integrity>N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io=</Integrity>
+      <Fingerprint>mk9efpzttm</Fingerprint>
+      <Integrity>9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\scss\style.scss'))</OriginalItemSpec>
@@ -14574,8 +14574,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>x1c7p3d2yl</Fingerprint>
-      <Integrity>xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc=</Integrity>
+      <Fingerprint>gxe01kdq5n</Fingerprint>
+      <Integrity>bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

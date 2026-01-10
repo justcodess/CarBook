@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2sK+zsDD59aIkqt7+VJiIk7daKJdowNHDMiFoyWoPaw=",
+  "Hash": "MHkw6iZpsvis9O8VrJxGi1lHbuDwM4RJMPpJ9rGodwQ=",
   "Source": "CarBook.webUI",
   "BasePath": "_content/CarBook.webUI",
   "Mode": "Default",
@@ -13513,8 +13513,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wzae5i83sp",
-      "Integrity": "LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8=",
+      "Fingerprint": "rok8fwj8x5",
+      "Integrity": "uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\css\\style.css"
@@ -14941,8 +14941,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kupmeeqmap",
-      "Integrity": "XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y=",
+      "Fingerprint": "7bohskoscf",
+      "Integrity": "rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\js\\main.js"
@@ -16999,8 +16999,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zdw9arda7c",
-      "Integrity": "N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io=",
+      "Fingerprint": "mk9efpzttm",
+      "Integrity": "9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\scss\\style.scss"
@@ -17041,8 +17041,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x1c7p3d2yl",
-      "Integrity": "xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc=",
+      "Fingerprint": "gxe01kdq5n",
+      "Integrity": "bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -68422,7 +68422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Sep 2025 09:43:25 GMT"
+          "Value": "Sat, 10 Jan 2026 09:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -68459,7 +68459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Sep 2025 09:43:25 GMT"
+          "Value": "Sat, 10 Jan 2026 09:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -68504,7 +68504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Sep 2025 09:43:25 GMT"
+          "Value": "Sat, 10 Jan 2026 09:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -68549,7 +68549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 05 Sep 2025 09:43:25 GMT"
+          "Value": "Sat, 10 Jan 2026 09:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70460,7 +70460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "278622"
+          "Value": "314864"
         },
         {
           "Name": "Content-Type",
@@ -70468,11 +70468,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8=\""
+          "Value": "\"uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 17:12:40 GMT"
+          "Value": "Sat, 10 Jan 2026 12:03:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70482,12 +70482,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8="
+          "Value": "sha256-uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc="
         }
       ]
     },
     {
-      "Route": "carbook-master/css/style.wzae5i83sp.css",
+      "Route": "carbook-master/css/style.rok8fwj8x5.css",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70497,7 +70497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "278622"
+          "Value": "314864"
         },
         {
           "Name": "Content-Type",
@@ -70505,11 +70505,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8=\""
+          "Value": "\"uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 17:12:40 GMT"
+          "Value": "Sat, 10 Jan 2026 12:03:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70519,7 +70519,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wzae5i83sp"
+          "Value": "rok8fwj8x5"
         },
         {
           "Name": "label",
@@ -70527,7 +70527,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LByt7IF5eSAebXe6kAw3i1Yhcb1WsWpfCc/BM9Uqug8="
+          "Value": "sha256-uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc="
         }
       ]
     },
@@ -76026,6 +76026,51 @@
       ]
     },
     {
+      "Route": "carbook-master/js/main.7bohskoscf.js",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 Jan 2026 10:43:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bohskoscf"
+        },
+        {
+          "Name": "label",
+          "Value": "carbook-master/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M="
+        }
+      ]
+    },
+    {
       "Route": "carbook-master/js/main.js",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\js\\main.js",
       "Selectors": [],
@@ -76036,7 +76081,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7595"
+          "Value": "7457"
         },
         {
           "Name": "Content-Type",
@@ -76044,11 +76089,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y=\""
+          "Value": "\"rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 17:07:43 GMT"
+          "Value": "Sat, 10 Jan 2026 10:43:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -76058,52 +76103,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y="
-        }
-      ]
-    },
-    {
-      "Route": "carbook-master/js/main.kupmeeqmap.js",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\js\\main.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7595"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 17:07:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kupmeeqmap"
-        },
-        {
-          "Name": "label",
-          "Value": "carbook-master/js/main.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XBI76yLGmwoRri66Ye99oZghzOZBHTku1+VkaCSC+7Y="
+          "Value": "sha256-rX6gT1gVmtPsBRqyM1mUHcZCVA6tSU3qXpypdI33d5M="
         }
       ]
     },
@@ -84062,6 +84062,51 @@
       ]
     },
     {
+      "Route": "carbook-master/scss/style.mk9efpzttm.scss",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\scss\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 Jan 2026 12:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mk9efpzttm"
+        },
+        {
+          "Name": "label",
+          "Value": "carbook-master/scss/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M="
+        }
+      ]
+    },
+    {
       "Route": "carbook-master/scss/style.scss",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\scss\\style.scss",
       "Selectors": [],
@@ -84072,7 +84117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "40020"
+          "Value": "40063"
         },
         {
           "Name": "Content-Type",
@@ -84080,11 +84125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io=\""
+          "Value": "\"9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 01 Sep 2025 12:58:46 GMT"
+          "Value": "Sat, 10 Jan 2026 12:02:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84094,52 +84139,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io="
-        }
-      ]
-    },
-    {
-      "Route": "carbook-master/scss/style.zdw9arda7c.scss",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\scss\\style.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40020"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 01 Sep 2025 12:58:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zdw9arda7c"
-        },
-        {
-          "Name": "label",
-          "Value": "carbook-master/scss/style.scss"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N/IPMdqXyfw0VI+NvGkvBbyP5M8BzPAV8bLBWsI+4io="
+          "Value": "sha256-9gqW/hrWHkktfga/lm3C5VUsjK8zeYlg7nbP/eoqQ+M="
         }
       ]
     },
@@ -84236,7 +84236,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "461"
+          "Value": "382"
         },
         {
           "Name": "Content-Type",
@@ -84244,11 +84244,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc=\""
+          "Value": "\"bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 16:58:30 GMT"
+          "Value": "Sat, 10 Jan 2026 10:38:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84258,12 +84258,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc="
+          "Value": "sha256-bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0="
         }
       ]
     },
     {
-      "Route": "css/site.x1c7p3d2yl.css",
+      "Route": "css/site.gxe01kdq5n.css",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -84273,7 +84273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "461"
+          "Value": "382"
         },
         {
           "Name": "Content-Type",
@@ -84281,11 +84281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc=\""
+          "Value": "\"bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 04 Jan 2026 16:58:30 GMT"
+          "Value": "Sat, 10 Jan 2026 10:38:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84295,7 +84295,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x1c7p3d2yl"
+          "Value": "gxe01kdq5n"
         },
         {
           "Name": "label",
@@ -84303,7 +84303,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xS0c3+1pBsY4jZZgr9qfficOEh+k8o+nLao1b5pvBqc="
+          "Value": "sha256-bPNZj9rANsm6ywYXaw1SsIrRFubpwPO6M2g+L2iKBN0="
         }
       ]
     },

@@ -28,14 +28,18 @@ namespace CarBook.webUI.Controllers
 
             return View();
         }
-        public async Task<IActionResult> BlogDetails(int id)
+        public IActionResult BlogDetails(int id)
         {
+            if (id == 0)
+                return RedirectToAction("Index");
+
             ViewBag.v1 = "Blogs";
             ViewBag.v2 = "Blog Details";
             ViewBag.blogid = id;
 
             return View();
         }
+
 
     }
 }
