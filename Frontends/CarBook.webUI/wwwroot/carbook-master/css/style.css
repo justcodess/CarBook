@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
  * Copyright 2011-2019 Twitter, Inc.
@@ -12685,32 +12685,25 @@ h1, h2, h3, h4, h5,
     }
 
 .ftco-intro {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: top center;
+    position: relative;
     overflow: hidden;
     z-index: 1;
 }
 
 @media (min-width: 768px) {
-    .ftco-intro .overlay {
+    .ftco-intro::before {
+        content: "";
         position: absolute;
-        top: -120px;
+        top: 0; 
         left: -100px;
-        right: 0;
-        bottom: -120px;
         width: 40%;
-        content: '';
-        opacity: 1;
+        height: 150%;
         background: #01d28e;
-        -ms-transform: rotate(20deg);
-        /* IE 9 */
-        -webkit-transform: rotate(20deg);
-        /* Safari 3-8 */
         transform: rotate(20deg);
-      
+        z-index: 0;
     }
 }
+
 
 .ftco-intro:after {
     position: absolute;
@@ -12842,10 +12835,15 @@ textarea.form-control {
 }
 
 .ftco-section {
-    padding: 6em 0;
     position: relative;
-    z-index: 300;
+    z-index: 5;
+    background: #fff;
 }
+.ftco-intro > * {
+    position: relative;
+    z-index: 2;
+}
+
 
 @media (max-width: 767.98px) {
     .ftco-section {

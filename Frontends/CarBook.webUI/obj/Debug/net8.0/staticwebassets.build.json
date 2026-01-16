@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MHkw6iZpsvis9O8VrJxGi1lHbuDwM4RJMPpJ9rGodwQ=",
+  "Hash": "spIZAx4G6/CltnlAQaRx+gdYRddAsXCOqSjxAiiHSP4=",
   "Source": "CarBook.webUI",
   "BasePath": "_content/CarBook.webUI",
   "Mode": "Default",
@@ -13513,8 +13513,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rok8fwj8x5",
-      "Integrity": "uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=",
+      "Fingerprint": "aomkujujn1",
+      "Integrity": "Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\css\\style.css"
@@ -70450,6 +70450,51 @@
       ]
     },
     {
+      "Route": "carbook-master/css/style.aomkujujn1.css",
+      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 Jan 2026 11:22:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aomkujujn1"
+        },
+        {
+          "Name": "label",
+          "Value": "carbook-master/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU="
+        }
+      ]
+    },
+    {
       "Route": "carbook-master/css/style.css",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\css\\style.css",
       "Selectors": [],
@@ -70460,7 +70505,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "314864"
+          "Value": "314696"
         },
         {
           "Name": "Content-Type",
@@ -70468,11 +70513,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=\""
+          "Value": "\"Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 10 Jan 2026 12:03:25 GMT"
+          "Value": "Fri, 16 Jan 2026 11:22:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70482,52 +70527,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc="
-        }
-      ]
-    },
-    {
-      "Route": "carbook-master/css/style.rok8fwj8x5.css",
-      "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "314864"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 Jan 2026 12:03:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rok8fwj8x5"
-        },
-        {
-          "Name": "label",
-          "Value": "carbook-master/css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uzngD0gf7SFoBASielL/g7qOw79O94Pk23C5wqI1/Hc="
+          "Value": "sha256-Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU="
         }
       ]
     },
