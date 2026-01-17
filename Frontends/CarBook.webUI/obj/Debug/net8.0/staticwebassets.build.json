@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "spIZAx4G6/CltnlAQaRx+gdYRddAsXCOqSjxAiiHSP4=",
+  "Hash": "xqLoOwGpVF/SRY6h3499HaGuWUQcS/jcHf7WCSyOz/A=",
   "Source": "CarBook.webUI",
   "BasePath": "_content/CarBook.webUI",
   "Mode": "Default",
@@ -13513,8 +13513,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "aomkujujn1",
-      "Integrity": "Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=",
+      "Fingerprint": "08dlsjg2ah",
+      "Integrity": "MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo+15yMtc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\css\\style.css"
@@ -70450,7 +70450,7 @@
       ]
     },
     {
-      "Route": "carbook-master/css/style.aomkujujn1.css",
+      "Route": "carbook-master/css/style.08dlsjg2ah.css",
       "AssetFile": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\carbook-master\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70460,7 +70460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "314696"
+          "Value": "314840"
         },
         {
           "Name": "Content-Type",
@@ -70468,11 +70468,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=\""
+          "Value": "\"MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo+15yMtc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 Jan 2026 11:22:41 GMT"
+          "Value": "Sat, 17 Jan 2026 10:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70482,7 +70482,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "aomkujujn1"
+          "Value": "08dlsjg2ah"
         },
         {
           "Name": "label",
@@ -70490,7 +70490,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU="
+          "Value": "sha256-MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo+15yMtc="
         }
       ]
     },
@@ -70505,7 +70505,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "314696"
+          "Value": "314840"
         },
         {
           "Name": "Content-Type",
@@ -70513,11 +70513,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU=\""
+          "Value": "\"MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo+15yMtc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 Jan 2026 11:22:41 GMT"
+          "Value": "Sat, 17 Jan 2026 10:45:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70527,7 +70527,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nqa4vzvDZw6uF+hGF7d0t+NAPx7l+UkqTi0UxsCTWcU="
+          "Value": "sha256-MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo+15yMtc="
         }
       ]
     },

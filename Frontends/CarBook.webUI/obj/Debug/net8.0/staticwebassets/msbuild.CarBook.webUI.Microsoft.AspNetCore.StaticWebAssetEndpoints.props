@@ -7680,17 +7680,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sdsmX4iRgmh\u002BZIsymdE2sgDHx2URxRGZeEP9LbXlm44="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"979"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sdsmX4iRgmh\u002BZIsymdE2sgDHx2URxRGZeEP9LbXlm44=\u0022"},{"Name":"Last-Modified","Value":"Mon, 01 Sep 2025 12:58:46 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarBook.webUI/carbook-master/css/style.aomkujujn1.css">
+    <StaticWebAssetEndpoint Include="_content/CarBook.webUI/carbook-master/css/style.08dlsjg2ah.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aomkujujn1"},{"Name":"integrity","Value":"sha256-Nqa4vzvDZw6uF\u002BhGF7d0t\u002BNAPx7l\u002BUkqTi0UxsCTWcU="},{"Name":"label","Value":"_content/CarBook.webUI/carbook-master/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"314696"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Nqa4vzvDZw6uF\u002BhGF7d0t\u002BNAPx7l\u002BUkqTi0UxsCTWcU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 Jan 2026 11:22:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"08dlsjg2ah"},{"Name":"integrity","Value":"sha256-MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo\u002B15yMtc="},{"Name":"label","Value":"_content/CarBook.webUI/carbook-master/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"314840"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo\u002B15yMtc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 Jan 2026 10:45:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.webUI/carbook-master/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Nqa4vzvDZw6uF\u002BhGF7d0t\u002BNAPx7l\u002BUkqTi0UxsCTWcU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"314696"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Nqa4vzvDZw6uF\u002BhGF7d0t\u002BNAPx7l\u002BUkqTi0UxsCTWcU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 Jan 2026 11:22:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo\u002B15yMtc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"314840"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MH5CODCpJ3dD0hRxFhseaF9WhXJV94XabFpo\u002B15yMtc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 17 Jan 2026 10:45:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.webUI/carbook-master/fonts/flaticon/backup.p74yi0tfuq.txt">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\fonts\flaticon\backup.txt'))</AssetFile>
