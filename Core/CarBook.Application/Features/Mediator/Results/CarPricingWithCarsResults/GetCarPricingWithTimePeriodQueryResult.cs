@@ -9,6 +9,8 @@ namespace CarBook.Application.Features.Mediator.Results.CarPricingWithCarsResult
     public class GetCarPricingWithTimePeriodQueryResult
     {
         public string Model { get; set; }
+        public string BrandName { get; set; }
+        public string CoverImgUrl { get; set; }
         public decimal DailyPrice{ get; set; }
         public decimal WeeklyPrice{ get; set; }
         public decimal MontlyPrice { get; set; }

@@ -14,6 +14,8 @@ namespace CarBook.Application.ViewModels
         }
         public List< Decimal> Price { get; set; }
         public string Model { get; set; }
+        public string BrandName { get; set; }
+        public string CoverImgUrl { get; set; }
 
     }
 }
