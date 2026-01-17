@@ -52565,6 +52565,51 @@
       ]
     },
     {
+      "Route": "carbook-master/css/style.4lhkbpf0vo.css",
+      "AssetFile": "carbook-master/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268498"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+IqcynY8c5bxK0JetKbTHPGYGqidvop+afmSmQUXK+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 Jan 2026 11:54:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4lhkbpf0vo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+IqcynY8c5bxK0JetKbTHPGYGqidvop+afmSmQUXK+U="
+        },
+        {
+          "Name": "label",
+          "Value": "carbook-master/css/style.css"
+        }
+      ]
+    },
+    {
       "Route": "carbook-master/css/style.css",
       "AssetFile": "carbook-master/css/style.css",
       "Selectors": [],
@@ -52579,7 +52624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "268495"
+          "Value": "268498"
         },
         {
           "Name": "Content-Type",
@@ -52587,62 +52632,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vjGD5QNUC2RPYE/XvYi2UfeAZPiuBxbSVfCl+PSNfO8=\""
+          "Value": "\"+IqcynY8c5bxK0JetKbTHPGYGqidvop+afmSmQUXK+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 Jan 2026 11:06:15 GMT"
+          "Value": "Sat, 17 Jan 2026 11:54:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vjGD5QNUC2RPYE/XvYi2UfeAZPiuBxbSVfCl+PSNfO8="
-        }
-      ]
-    },
-    {
-      "Route": "carbook-master/css/style.infi2g94gi.css",
-      "AssetFile": "carbook-master/css/style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "268495"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vjGD5QNUC2RPYE/XvYi2UfeAZPiuBxbSVfCl+PSNfO8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 Jan 2026 11:06:15 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "infi2g94gi"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vjGD5QNUC2RPYE/XvYi2UfeAZPiuBxbSVfCl+PSNfO8="
-        },
-        {
-          "Name": "label",
-          "Value": "carbook-master/css/style.css"
+          "Value": "sha256-+IqcynY8c5bxK0JetKbTHPGYGqidvop+afmSmQUXK+U="
         }
       ]
     },

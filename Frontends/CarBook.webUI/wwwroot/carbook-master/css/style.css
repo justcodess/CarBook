@@ -8364,9 +8364,11 @@ h1, h2, h3, h4, h5,
       height: 1150px; }
       .hero-wrap .overlay {
         height: 1150px; } }
-  .hero-wrap.hero-wrap-2 {
+.hero-wrap.hero-wrap-2 {
     height: 600px !important;
-    position: relative; }
+    position: relative;
+    
+}
     .hero-wrap.hero-wrap-2 .overlay {
       width: 100%;
       opacity: .3;

@@ -11532,8 +11532,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>infi2g94gi</Fingerprint>
-      <Integrity>vjGD5QNUC2RPYE/XvYi2UfeAZPiuBxbSVfCl+PSNfO8=</Integrity>
+      <Fingerprint>4lhkbpf0vo</Fingerprint>
+      <Integrity>+IqcynY8c5bxK0JetKbTHPGYGqidvop+afmSmQUXK+U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\css\style.css'))</OriginalItemSpec>
