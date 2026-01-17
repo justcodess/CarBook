@@ -1306,13 +1306,11 @@ textarea.form-control {
 
 
 .ftco-section {
-    padding: 6em 0;
-    position: relative;
-
-    @include media-breakpoint-down(sm) {
-        padding: 6em 0;
-        z-index: 10;
-    }
+	padding: 6em 0;
+	position: relative;
+	@include media-breakpoint-down(sm){
+		padding: 6em 0;
+	}
 }
 
 .ftco-no-pt{

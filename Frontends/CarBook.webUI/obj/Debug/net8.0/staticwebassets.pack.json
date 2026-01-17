@@ -3237,6 +3237,10 @@
       "PackagePath": "staticwebassets\\carbook-master\\services.html"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\chart.js",
+      "PackagePath": "staticwebassets\\chart.js"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -3257,88 +3261,176 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
@@ -3383,6 +3475,18 @@
     {
       "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarBook.webUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
