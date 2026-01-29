@@ -10,5 +10,8 @@ namespace CarBook.Application.Interfaces.CarFeatureInterfaces
     public interface ICarFeatureRepository
     {
         List<CarFeature> GetCarFeatureByCarId(int carID) ;
+        void ChangeCarFeatureAvailableToTrue(int id);
+        void ChangeCarFeatureAvailableToFalse(int id);
+
     }
 }

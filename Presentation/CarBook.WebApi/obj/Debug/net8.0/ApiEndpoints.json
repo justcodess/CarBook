@@ -422,6 +422,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "ChangeAvaiblableToFalse",
+    "RelativePath": "api/CarFeatures/CarFeatureChangeAvailableToFalse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "ChangeAvaiblableToTrue",
+    "RelativePath": "api/CarFeatures/CarFeatureChangeAvailableToTrue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.CarPricingsController",
     "Method": "GetCarPricingWithCarsList",
     "RelativePath": "api/CarPricings",

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Markup;
 using CarBook.Application.Interfaces.CarFeatureInterfaces;
 using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
@@ -16,6 +17,20 @@ namespace CarBook.Persistence.Repositories.CarFeatureRepositories
         public CarFeatureRepository(CarBookContext context)
         {
             _context = context;
+        }
+
+        public void ChangeCarFeatureAvailableToFalse(int id)
+        {
+            var value = _context.CarFeatures.Where(cf => cf.CarFeatureID == id).FirstOrDefault();
+            value.Available = false;
+            _context.SaveChanges();
+        }
+
+        public void ChangeCarFeatureAvailableToTrue(int id)
+        {
+            var value = _context.CarFeatures.Where(cf => cf.CarFeatureID == id).FirstOrDefault();
+            value.Available = true;
+            _context.SaveChanges();
         }
 
         public List<CarFeature> GetCarFeatureByCarId(int carID)
