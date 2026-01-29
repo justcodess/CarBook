@@ -423,6 +423,22 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CreateCarFeatureByCar",
+    "RelativePath": "api/CarFeatures",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.Mediator.Commands.CarFeatureCommands.CreateCarFeatureByCarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
     "Method": "ChangeAvaiblableToFalse",
     "RelativePath": "api/CarFeatures/CarFeatureChangeAvailableToFalse",
     "HttpMethod": "GET",

@@ -641,6 +641,35 @@
             "description": "OK"
           }
         }
+      },
+      "post": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/api/CarFeatures/CarFeatureChangeAvailableToTrue": {
@@ -2725,6 +2754,23 @@
           "bigImgUrl": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateCarFeatureByCarCommand": {
+        "type": "object",
+        "properties": {
+          "carID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "featureID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "available": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

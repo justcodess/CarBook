@@ -33,5 +33,12 @@ namespace CarBook.WebApi.Controllers
             _mediator.Send(new UpdateCarFeatureAvailableChangeToFalseCommand(id));
             return Ok("Car Feature Available Changed to False.");
         }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateCarFeatureByCar( CreateCarFeatureByCarCommand command)
+        {
+            await _mediator.Send(command);
+            return Ok("Car Feature Created.");
+        }
     }
 }

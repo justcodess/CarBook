@@ -68,6 +68,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Areas/Admin/Views/AdminCarFeatureDetail/CreateCarFeatureByCarId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXJGZWF0dXJlRGV0YWlsXENyZWF0ZUNhckZlYXR1cmVCeUNhcklkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/zeyne/OneDrive/Belgeler/GitHub/CarBook/Frontends/CarBook.webUI/Areas/Admin/Views/AdminCarFeatureDetail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXJGZWF0dXJlRGV0YWlsXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
