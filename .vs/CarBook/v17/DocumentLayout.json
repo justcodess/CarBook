@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\views\\admincar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\admincar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\admincarfeaturedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\admincarfeaturedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\persistence\\carbook.persistence\\repositories\\carfeaturerepositories\\carfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA7542B-7E41-4305-8DD3-32B5063B1EB6}|Persistence\\CarBook.Persistence\\CarBook.Persistence.csproj|solutionrelative:persistence\\carbook.persistence\\repositories\\carfeaturerepositories\\carfeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\views\\admincar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{726ECB47-C9CF-4809-9047-8DE474447BA3}|Frontends\\CarBook.webUI\\CarBook.webUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\admincar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\carfeaturehandlers\\updatecarfeatureavailablechangetofalsecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\handlers\\carfeaturehandlers\\getcarfeaturebycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62A48066-CA70-440B-9844-B4D65EB1F650}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\handlers\\carfeaturehandlers\\getcarfeaturebycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\carfeaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\carfeaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23FA9B32-C990-4139-8331-5210774CAD60}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\zeyne\\onedrive\\belgeler\\github\\carbook\\presentation\\carbook.webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarFeaturesController.cs",
-              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\CarFeaturesController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\CarFeaturesController.cs",
-              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\CarFeaturesController.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\CarFeaturesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CarFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Repositories\\CarFeatureRepositories\\CarFeatureRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\CarBook.Persistence\\Repositories\\CarFeatureRepositories\\CarFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Persistence\\CarBook.Persistence\\Repositories\\CarFeatureRepositories\\CarFeatureRepository.cs",
+              "RelativeToolTip": "Persistence\\CarBook.Persistence\\Repositories\\CarFeatureRepositories\\CarFeatureRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:22:13.006Z",
+              "WhenOpened": "2026-01-29T14:00:16.2Z",
               "EditorCaption": ""
             },
             {
@@ -67,12 +67,11 @@
               "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:22:11.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T13:22:11.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetCarFeatureByCarIdQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\GetCarFeatureByCarIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\GetCarFeatureByCarIdQueryHandler.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\GetCarFeatureByCarIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:18:34.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T13:18:34.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateCarFeatureAvailableChangeToFalseCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\UpdateCarFeatureAvailableChangeToFalseCommandHandler.cs",
               "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\UpdateCarFeatureAvailableChangeToFalseCommandHandler.cs",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\UpdateCarFeatureAvailableChangeToFalseCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:17:45.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T13:17:45.655Z"
             },
             {
               "$type": "Document",
@@ -106,25 +103,24 @@
               "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Views\\AdminCarFeatureDetail\\Index.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowB8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-29T10:14:21.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T10:14:21.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AdminCarFeatureDetailController.cs",
               "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminCarFeatureDetailController.cs",
               "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminCarFeatureDetailController.cs",
               "ToolTip": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminCarFeatureDetailController.cs",
               "RelativeToolTip": "Frontends\\CarBook.webUI\\Areas\\Admin\\Controllers\\AdminCarFeatureDetailController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA9wCQAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T10:12:32.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zeyne\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.webUI\\Views\\AdminCar\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\CarBook.webUI\\Views\\AdminCar\\Index.cshtml",

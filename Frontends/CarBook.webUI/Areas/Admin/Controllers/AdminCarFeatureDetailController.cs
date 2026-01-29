@@ -2,6 +2,7 @@
 using CarBook.Dto.CarFeatureDtos;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace CarBook.webUI.Areas.Admin.Controllers
 {
@@ -30,33 +31,27 @@ namespace CarBook.webUI.Areas.Admin.Controllers
             return View();
         }
 
-        //[HttpPost]
-        //[Route("Index")]
-        //public async Task<IActionResult> Index(List<ResultCarFeatureByCarIdDto> resultCarFeatureByCarIdDto)
-        //{
-        //    foreach(var item in resultCarFeatureByCarIdDto)
-        //    {
-        //        if (item.Available)
-        //        {
-        //            var client = _httpClientFactory.CreateClient();
-        //            var jsonData = JsonConvert.SerializeObject(resultCarFeatureByCarIdDto);
-        //            StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
-        //            var responseMessage = await client.PutAsync($"https://localhost:7098/api/Category", stringContent);
-        //            if (responseMessage.IsSuccessStatusCode)
-        //            {
-        //                return RedirectToAction("Index", "AdminCategory", new { area = "Admin" });
-        //            }
-        //            return View();
+        [HttpPost]
+        [Route("Index/{id}")]
+        public async Task<IActionResult> Index(List<ResultCarFeatureByCarIdDto> resultCarFeatureByCarIdDto)
+        {
+            foreach (var item in resultCarFeatureByCarIdDto)
+            {
+                if (item.Available)
+                {
+                    var client = _httpClientFactory.CreateClient();
+                     await client.GetAsync("https://localhost:7098/api/CarFeatures/CarFeatureChangeAvailableToTrue?id="+ item.CarFeatureID);
 
-        //        }
-        //        else
-        //        {
-                        
-        //        }
-        //    }
-                
-            
-        //}
+                }
+                else
+                {
+                    var client = _httpClientFactory.CreateClient();
+                    await client.GetAsync("https://localhost:7098/api/CarFeatures/CarFeatureChangeAvailableToFalse?id=" + item.CarFeatureID);
+                }
+            }
+            return RedirectToAction("Index", "AdminCar");
+
+        }
 
     }
 }
