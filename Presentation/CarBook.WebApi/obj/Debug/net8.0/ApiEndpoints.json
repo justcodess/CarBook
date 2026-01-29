@@ -669,6 +669,22 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "CommentCountByBlog",
+    "RelativePath": "api/Comments/CommentCountByBlog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
     "Method": "CommentListByBlog",
     "RelativePath": "api/Comments/CommentListByBlog",
     "HttpMethod": "GET",
@@ -679,6 +695,22 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "CreateCommentWithMediator",
+    "RelativePath": "api/Comments/CreateCommentWithMediator",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.Mediator.Commands.CommentCommands.CreateCommentCommand",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
