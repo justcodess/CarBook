@@ -24,6 +24,8 @@ using CarBook.Persistence.Repositories.StatisticsRepositories;
 using CarBook.Persistence.Repositories.TagCloudRepositories;
 
 using Microsoft.EntityFrameworkCore;
+using CarBook.Application.Interfaces.CarFeatureInterfaces;
+using CarBook.Persistence.Repositories.CarFeatureRepositories;
 
 
 
@@ -42,6 +44,7 @@ builder.Services.AddScoped(typeof(ITagCloudRepository), typeof(TagCloudRepositor
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(CommentRepository<>));
 builder.Services.AddScoped<IStatisticsRepository, StatisticsRepository>();
 builder.Services.AddScoped<IRentACarRepository, RentACarRepository>();
+builder.Services.AddScoped(typeof(ICarFeatureRepository), typeof(CarFeatureRepository));
 
 
 

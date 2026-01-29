@@ -113,7 +113,7 @@ namespace CarBook.webUI.Controllers
         {
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(updateCarDto);
-            StringContent stringContent = new StringContent(jsonData,Encoding.UTF8,"application/json");
+            StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
             var responseMessage = await client.PutAsync($"https://localhost:7098/api/Cars", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
@@ -122,6 +122,9 @@ namespace CarBook.webUI.Controllers
             return View();
 
         }
+
+       
+
     }
 
 }

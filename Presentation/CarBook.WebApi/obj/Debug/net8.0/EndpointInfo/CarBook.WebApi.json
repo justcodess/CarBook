@@ -621,6 +621,28 @@
         }
       }
     },
+    "/api/CarFeatures": {
+      "get": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/CarPricings": {
       "get": {
         "tags": [

@@ -406,6 +406,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CarFeatureListByCarId",
+    "RelativePath": "api/CarFeatures",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.CarPricingsController",
     "Method": "GetCarPricingWithCarsList",
     "RelativePath": "api/CarPricings",
