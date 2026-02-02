@@ -26,10 +26,30 @@ using CarBook.Persistence.Repositories.TagCloudRepositories;
 using Microsoft.EntityFrameworkCore;
 using CarBook.Application.Interfaces.CarFeatureInterfaces;
 using CarBook.Persistence.Repositories.CarFeatureRepositories;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+
 
 
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+{
+    opt.RequireHttpsMetadata = false;
+    opt.TokenValidationParameters = new TokenValidationParameters
+    {
+
+       // ValidAudience = JwtTokenDefaults.ValidAudience,
+        //ValidIssuer = JwtTokenDefaults.ValidIssuer,
+        ClockSkew = TimeSpan.Zero,
+       // IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(JwtTokenDefaults.Key)),
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true
+    };
+
+}
+);
 
 // Add services to the container.
 
