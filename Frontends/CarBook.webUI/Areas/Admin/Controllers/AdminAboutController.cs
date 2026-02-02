@@ -55,9 +55,7 @@ namespace CarBook.webUI.Areas.Admin.Controllers
                 Encoding.UTF8,
                 "application/json");
 
-            var responseMessage = await client.PostAsync(
-                "https://localhost:7098/api/Abouts",
-                stringContent);
+            var responseMessage = await client.PostAsync("https://localhost:7098/api/Abouts", stringContent);
 
             if (responseMessage.IsSuccessStatusCode)
             {

@@ -1,7 +1,5 @@
 ﻿using System.Text;
 using CarBook.Dto.BrandDtos;
-using CarBook.Dto.BrandDtos;
-using CarBook.Dto.BrandDtos;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 namespace CarBook.webUI.Controllers
