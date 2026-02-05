@@ -3,7 +3,6 @@
 This project was developed as a reference implementation of Onion Architecture in an ASP.NET Core Web API application.
 The main goal is to demonstrate how modern architectural approaches and design patterns can be applied in a real-world car rental system scenario.
 
-The repository focuses on code quality, architectural structure, and best practices, rather than being a step-by-step tutorial.
 
 ## Scope of the Project
 
